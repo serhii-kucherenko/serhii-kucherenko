@@ -71,25 +71,32 @@ The intersection of **product** and **systems**. I care about:
 
 ---
 
-### ����️ My Tech Stack
+### 🛠️ My Tech Stack
 
-Over a decade, I've worked across the stack. What matters more than any specific tool is understanding **when and why** to use it.
+**Languages:** Python, JavaScript/TypeScript, SQL
 
-**Languages:** JavaScript, TypeScript, Python, Java
+**Frontend:** React, Next.js, React Native
+
+**Backend:** Node.js, Express, FastAPI
+
+**Databases:** PostgreSQL, Neon, Supabase, Drizzle (ORM)
+
+**APIs & Infrastructure:** REST, GraphQL, Vercel, Fly.io, GCP, Docker, CI/CD, Upstash QStash
+
+**AI/ML:** 
+- Major LLM Providers (OpenAI, Anthropic, Google, DeepSeek)
+- Function Calling & Tool Use
+- Prompt Engineering & Automated Eval Pipelines
+- Agent Orchestration & AI-Native Dev Workflows
 
 **Specialties:**
+- Full-stack product development (web & mobile)
+- AI-powered systems & LLM integration
 - Backend systems & API design
-- Full-stack product development
 - System architecture & scalability
+- Healthcare & fintech domain expertise
 - Team leadership & technical mentoring
 - Shipping fast without cutting corners
-
-**Tools & Practices:**
-- Version control & Git workflows
-- CI/CD & deployment pipelines
-- Database design (relational & document)
-- Cloud platforms (AWS, GCP)
-- Testing, monitoring, observability
 
 ---
 
