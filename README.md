@@ -112,7 +112,9 @@ The intersection of **product** and **systems**. I care about:
 
 ### 📊 GitHub Stats
 
-**Check out my GitHub activity and contributions below!**
+![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhii-kucherenko&theme=radical&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-kucherenko&theme=radical&layout=compact&count_private=true)
 
 ---
 
