@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif" width="30"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFz6f6dO1Hhg2/giphy.gif" width="30"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -71,11 +71,11 @@ The intersection of **product** and **systems**. I care about:
 
 ---
 
-### 🛠️ My Tech Stack
+### ����️ My Tech Stack
 
 Over a decade, I've worked across the stack. What matters more than any specific tool is understanding **when and why** to use it.
 
-**Languages:** JavaScript, TypeScript, Python, Java, Go
+**Languages:** JavaScript, TypeScript, Python, Java
 
 **Specialties:**
 - Backend systems & API design
@@ -103,11 +103,9 @@ Over a decade, I've worked across the stack. What matters more than any specific
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
-![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhii-kucherenko&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-kucherenko&layout=compact&theme=radical)
+**Check out my GitHub activity and contributions below!**
 
 ---
 
