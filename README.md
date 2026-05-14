@@ -110,9 +110,12 @@ The intersection of **product** and **systems**. I care about:
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub
 
-[![GitHub stats](https://streak-stats.demolab.com?user=serhii-kucherenko&theme=radical&hide_border=true)](https://github.com/serhii-kucherenko)
+[![GitHub stats](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/serhii-kucherenko)
+![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?style=flat)
+
+Visit my [profile](https://github.com/serhii-kucherenko) to see my public repositories and contributions.
 
 ---
 
