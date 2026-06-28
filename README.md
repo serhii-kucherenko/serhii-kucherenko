@@ -38,6 +38,9 @@
   <img src="https://leetcard.jacoblin.cool/serhii-kucherenko?theme=dark&hide_border=true&ext=contest" />
 </p>
 
+**Goals:**
+- [ ] 500 LeetCode problems solved
+
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
