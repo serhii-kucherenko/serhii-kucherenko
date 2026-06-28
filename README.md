@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. 10+ years owning production software from zero to scale — lately deep in AI, healthcare, and the seam between the two.</em></p>
+<p><em>Founding full-stack engineer. 10+ years owning production software from zero to scale. Lately: AI agents, RAG, auth tooling, and useful web apps.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Founding+full-stack+engineer;AI+systems+%7C+healthcare+%7C+fintech;ship+a+sharp+v1%2C+learn+%3E+polish+a+v3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Founding+full-stack+engineer;AI+agents+%7C+RAG+%7C+developer+tools;Python+backends+%7C+Next.js+apps+%7C+docs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -19,7 +19,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| *(auto-updated weekly)* | — | — |
+| [serhii-kucherenko](https://github.com/serhii-kucherenko/serhii-kucherenko) | Keeps this GitHub profile README current with weekly project updates | — |
+| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Explores workforce intelligence APIs with FastAPI, Temporal, and audit trails | Python |
+| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA-style tasks for the Hugging Face agents course | Python |
+| [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Builds an agentic RAG assistant for gala event planning | Python |
+| [neetcode-submissions](https://github.com/serhii-kucherenko/neetcode-submissions) | Collects JavaScript solutions from ongoing NeetCode practice problems | JavaScript |
 <!-- PROJECTS_END -->
 
 ---
@@ -75,23 +79,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,react,nextjs,nodejs,fastapi,postgres,supabase,docker,aws,gcp,vercel&perline=7)](https://skillicons.dev)
 
-**Languages:** Python · TypeScript / JavaScript · SQL
+**Languages:** Python · TypeScript / JavaScript · SQL. Mostly Python lately.
 
-**Frontend:** React · Next.js · React Native
+**Frontend:** React · Next.js · React Native. Small apps, docs, and dashboards.
 
-**Backend:** Node.js · Express · FastAPI
+**Backend:** FastAPI · Node.js · Express. APIs, workers, and boring glue.
 
-**Databases:** PostgreSQL · Supabase · Neon · Drizzle
+**Databases:** PostgreSQL · Supabase · Neon · Drizzle · SQLAlchemy
 
-**Infra:** Vercel · Fly.io · GCP · AWS · Docker · CI/CD · Upstash QStash · Grafana
+**Infra:** Vercel · Fly.io · GCP · AWS · Docker · CI/CD · Temporal · Grafana
 
 **AI/ML:**
 - OpenAI · Anthropic · Google · DeepSeek
 - RAG systems · embeddings · semantic search · structured outputs
-- Tool use · function calling · prompt engineering · LLM evaluation
-- Agent orchestration · LangGraph · LlamaIndex · smolagents · Langfuse
+- Tool use · function calling · LLM evaluation · audit trails
+- Agent orchestration · LangGraph · LlamaIndex · Hugging Face coursework
 
-**Domain:** Healthcare · fintech · SaaS · EdTech · travel tech · crypto/trading · team leadership (2–6 engineers)
+**Domain:** AI agents · developer tools · auth systems · SaaS · healthcare · fintech · team leadership (2–6 engineers)
 
 ---
 
