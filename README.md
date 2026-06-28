@@ -40,6 +40,7 @@
 
 **Goals:**
 - [ ] 500 LeetCode problems solved
+- [ ] 100 day streak
 
 ---
 
