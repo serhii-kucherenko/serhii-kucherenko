@@ -14,6 +14,8 @@
 
 ### 🚀 Recent Projects
 
+*Auto-updated weekly.*
+
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
