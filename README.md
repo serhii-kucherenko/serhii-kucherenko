@@ -22,7 +22,7 @@ I'm always excited to chat about product, systems, craft, or how we can build be
 
 ---
 
-### 🚀 What I'm Building Now
+### 🚀 Recent Projects
 
 Currently focused on:
 
