@@ -22,6 +22,18 @@ I'm always excited to chat about product, systems, craft, or how we can build be
 
 ---
 
+### 🚀 What I'm Building Now
+
+Currently focused on:
+
+- **AI-Native Development Tools** – Building systems that make it easier for teams to integrate LLMs into production
+- **Full-Stack SaaS Platform** – Designing and implementing a healthcare analytics dashboard with real-time data processing
+- **Open Source Contributions** – Contributing to frameworks and libraries that help developers build better systems faster
+
+I'm particularly interested in projects that combine product thinking with strong systems architecture.
+
+---
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 Ten years in, the throughline isn't a stack or a domain - it's a **way of working**. 
