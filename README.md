@@ -41,6 +41,7 @@
 **Goals:**
 - [ ] 500 LeetCode problems solved
 - [ ] 100 day streak
+- [ ] 10,000+ total contributions by end of 2026
 
 ---
 
