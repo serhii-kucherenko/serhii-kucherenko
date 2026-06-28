@@ -1,48 +1,50 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFz[...]
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>I build things, lead small teams, and think a lot about how software actually gets made.</em></p>
+<p><em>Founding full-stack engineer. 10+ years owning production software from zero to scale — lately deep in AI, healthcare, and the seam between the two.</em></p>
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=serhii-kucherenko.serhii-kucherenko)
-
----
-
-### 📍 Based in Vancouver
-
-### 📫 Let's Connect!
-
-I'm always excited to chat about product, systems, craft, or how we can build better software together.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/serhii-kucherenko/) 
-- 📄 [Full CV](https://docs.google.com/document/d/1RiYm7zF3BVrR6wfZl9qvx1smSyrT7TJeMo_Oe3o-OXk/edit?usp=sharing)
-- 🐙 [GitHub](https://github.com/serhii-kucherenko)
+![](https://komarev.com/ghpvc/?username=serhii-kucherenko&style=flat-square&color=grey)
 
 ---
 
 ### 🚀 Recent Projects
 
-Currently focused on:
+<!-- PROJECTS_START -->
+| Project | What it does | Language |
+|---------|-------------|----------|
+| *(auto-updated weekly)* | — | — |
+<!-- PROJECTS_END -->
 
-- **AI-Native Development Tools** – Building systems that make it easier for teams to integrate LLMs into production
-- **Full-Stack SaaS Platform** – Designing and implementing a healthcare analytics dashboard with real-time data processing
-- **Open Source Contributions** – Contributing to frameworks and libraries that help developers build better systems faster
+---
 
-I'm particularly interested in projects that combine product thinking with strong systems architecture.
+### 📊 Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=serhii-kucherenko&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-kucherenko&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-Ten years in, the throughline isn't a stack or a domain - it's a **way of working**. 
+Ten years in, the throughline isn't a stack or a domain — it's a **way of working**.
 
-I like the seam between **product and systems**: 
+I've been a founding engineer more than once. That means owning the whole thing: architecture, hiring bar, what ships and what doesn't. The titles change; the responsibility doesn't.
+
+I like the seam between **product and systems**:
 - Product work keeps me honest about whether anything I build matters to a real person
 - Systems work is where I get to think about **leverage** — the architecture that makes the next ten features cheaper, faster, or possible at all
 
 I oscillate between them on purpose. Too much of either one rots in predictable ways.
+
+A few things I've shipped that had numbers attached: 85% page load reduction. $78K/yr in infra savings. Healthcare AI scheduling system from zero to multi-org. Financial MVP in 2 months → secured follow-on investment.
 
 #### What I'm actually like to work with:
 
@@ -52,78 +54,45 @@ const myApproach = {
   philosophy: "opinionated about craft",
   tolerance: "allergic to ceremony that doesn't earn its keep",
   shipping: "ship a sharp v1 and learn > polish a v3 in the dark",
-  
+
   belief: "The strongest engineers hold three things in their head at once:",
   triad: [
     "the user",
-    "the codebase", 
+    "the codebase",
     "the team"
   ],
   skill: "Notice when the three are pulling in different directions"
 };
 ```
 
-#### Outside of work:
+---
 
-- 🤔 Curious by default, planner by habit
-- 👥 More comfortable in small groups than crowds  
-- 💭 Take people and ideas seriously — including the ones I disagree with
+### 🛠️ Stack
+
+**Languages:** Python · TypeScript / JavaScript · SQL
+
+**Frontend:** React · Next.js · React Native
+
+**Backend:** Node.js · Express · FastAPI
+
+**Databases:** PostgreSQL · Supabase · Neon · Drizzle
+
+**Infra:** Vercel · Fly.io · GCP · AWS · Docker · CI/CD · Upstash QStash · Grafana
+
+**AI/ML:**
+- OpenAI · Anthropic · Google · DeepSeek
+- RAG systems · embeddings · semantic search · structured outputs
+- Tool use · function calling · prompt engineering · LLM evaluation
+- Agent orchestration · LangGraph · LlamaIndex · smolagents · Langfuse
+
+**Domain:** Healthcare · fintech · SaaS · EdTech · travel tech · crypto/trading · team leadership (2–6 engineers)
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> What I Work On
+### 📍 Based in Vancouver
 
-The intersection of **product** and **systems**. I care about:
+- 💼 [LinkedIn](https://www.linkedin.com/in/serhii-kucherenko/)
+- 📄 [CV](https://docs.google.com/document/d/1RiYm7zF3BVrR6wfZl9qvx1smSyrT7TJeMo_Oe3o-OXk/edit?usp=sharing)
+- 🐙 [GitHub](https://github.com/serhii-kucherenko)
 
-- 🏗️ Architecture that enables, not constrains
-- 🎯 Aligning technical decisions with user needs
-- 👥 Building strong teams that ship with confidence
-- 🔄 The feedback loop: user → product → system → user
-- 📈 Sustainable pace and quality over burnout and shortcuts
-
----
-
-### 🛠️ My Tech Stack
-
-**Languages:** Python, JavaScript/TypeScript, SQL
-
-**Frontend:** React, Next.js, React Native
-
-**Backend:** Node.js, Express, FastAPI
-
-**Databases:** PostgreSQL, Neon, Supabase, Drizzle (ORM)
-
-**APIs & Infrastructure:** REST, GraphQL, Vercel, Fly.io, GCP, Docker, CI/CD, Upstash QStash
-
-**AI/ML:** 
-- Major LLM Providers (OpenAI, Anthropic, Google, DeepSeek)
-- Function Calling & Tool Use
-- Prompt Engineering & Automated Eval Pipelines
-- Agent Orchestration & AI-Native Dev Workflows
-
-**Specialties:**
-- Full-stack product development (web & mobile)
-- AI-powered systems & LLM integration
-- Backend systems & API design
-- System architecture & scalability
-- Healthcare & fintech domain expertise
-- Team leadership & technical mentoring
-- Shipping fast without cutting corners
-
----
-
-### 💡 Current Interests
-
-- How to build products that matter
-- Scaling small teams effectively
-- Architecture that stays simple as it grows
-- The craft of engineering leadership
-- Writing clear code that teams can trust
-
----
-
-### 🚀 Let's Work Together
-
-Whether you're building a product, scaling a team, or rethinking how your engineering organization works — I'm interested in having that conversation.
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out. Let's build something that matters.**
+Whether you're building a product, scaling a team, or rethinking how your engineering org works — I'm interested in that conversation.
