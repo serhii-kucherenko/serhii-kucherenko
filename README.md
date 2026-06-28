@@ -28,6 +28,14 @@
 
 ---
 
+### 🎯 Goals
+
+- [ ] 🧩 500 LeetCode problems solved
+- [ ] 🔥 100 day streak
+- [ ] 📈 10,000+ total contributions by end of 2026
+
+---
+
 ### 📊 Stats
 
 <p align="center">
@@ -37,11 +45,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/serhii-kucherenko?theme=dark&hide_border=true&ext=contest" />
 </p>
-
-**Goals:**
-- [ ] 500 LeetCode problems solved
-- [ ] 100 day streak
-- [ ] 10,000+ total contributions by end of 2026
 
 ---
 
