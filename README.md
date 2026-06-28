@@ -4,6 +4,8 @@
 
 <p><em>Founding full-stack engineer. 10+ years owning production software from zero to scale — lately deep in AI, healthcare, and the seam between the two.</em></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Founding+full-stack+engineer;AI+systems+%7C+healthcare+%7C+fintech;ship+a+sharp+v1%2C+learn+%3E+polish+a+v3)](https://git.io/typing-svg)
+
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=serhii-kucherenko&style=flat-square&color=grey)
@@ -45,26 +47,31 @@ A few things I've shipped that had numbers attached: 85% page load reduction. $7
 
 #### What I'm actually like to work with:
 
-```javascript
-const myApproach = {
-  communication: "direct",
-  philosophy: "opinionated about craft",
-  tolerance: "allergic to ceremony that doesn't earn its keep",
-  shipping: "ship a sharp v1 and learn > polish a v3 in the dark",
+```bash
+$ whoami
+founding full-stack engineer · 10+ years · Vancouver
 
-  belief: "The strongest engineers hold three things in their head at once:",
-  triad: [
-    "the user",
-    "the codebase",
-    "the team"
-  ],
-  skill: "Notice when the three are pulling in different directions"
-};
+$ cat approach.txt
+communication:  direct
+philosophy:     opinionated about craft
+tolerance:      allergic to ceremony that doesn't earn its keep
+shipping:       ship a sharp v1 and learn > polish a v3 in the dark
+
+$ cat the-triad.txt
+The strongest engineers hold three things in their head at once:
+  → the user
+  → the codebase
+  → the team
+Skill: notice when they're pulling in different directions.
+
+$ █
 ```
 
 ---
 
 ### 🛠️ Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,python,js,react,nextjs,nodejs,fastapi,postgres,supabase,docker,aws,gcp,vercel&perline=7)](https://skillicons.dev)
 
 **Languages:** Python · TypeScript / JavaScript · SQL
 
