@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFz6f6dO1Hhg2/giphy.gif" width="30"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFz[...]
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -17,7 +17,7 @@
 I'm always excited to chat about product, systems, craft, or how we can build better software together.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/serhii-kucherenko/) 
-- 📄 [Full CV](https://docs.google.com/document/d/1RlNPcGMl-OKSlrROTJMPqlsHkaeo1KJ2osQQFYMYL1I/edit?usp=sharing)
+- 📄 [Full CV](https://docs.google.com/document/d/1RiYm7zF3BVrR6wfZl9qvx1smSyrT7TJeMo_Oe3o-OXk/edit?usp=sharing)
 - 🐙 [GitHub](https://github.com/serhii-kucherenko)
 
 ---
