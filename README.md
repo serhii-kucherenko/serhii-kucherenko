@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>I build things, lead small teams, and think a lot about how software actually gets made.</em></p>
+<p><em>I build product-shaped systems: Python backends, AI agents, developer tools, and the docs around them.</em></p>
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -14,9 +14,9 @@
 
 ### 📫 Let's Connect!
 
-I'm always excited to chat about product, systems, craft, or how we can build better software together.
+Open to conversations about product, systems, craft, and how teams ship.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/serhii-kucherenko/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/serhii-kucherenko/)
 - 📄 [Full CV](https://docs.google.com/document/d/1RiYm7zF3BVrR6wfZl9qvx1smSyrT7TJeMo_Oe3o-OXk/edit?usp=sharing)
 - 🐙 [GitHub](https://github.com/serhii-kucherenko)
 
@@ -24,21 +24,21 @@ I'm always excited to chat about product, systems, craft, or how we can build be
 
 ### 🚀 What I'm Building Now
 
-Currently focused on:
-
-- **AI-Native Development Tools** – Building systems that make it easier for teams to integrate LLMs into production
-- **Full-Stack SaaS Platform** – Designing and implementing a healthcare analytics dashboard with real-time data processing
-- **Open Source Contributions** – Contributing to frameworks and libraries that help developers build better systems faster
-
-I'm particularly interested in projects that combine product thinking with strong systems architecture.
+| Repo | What it is | Primary language |
+| --- | --- | --- |
+| [serhii-kucherenko](https://github.com/serhii-kucherenko/serhii-kucherenko) | This profile, kept close to the work instead of the resume. | Markdown |
+| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Workforce intelligence API lab with async services, workflows, and an AI audit trail. | Python |
+| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | GAIA agent coursework: tool use, retrieval, and careful answer loops. | Python |
+| [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Agentic RAG practice with LlamaIndex, built around a gala-planning bot. | Python |
+| [neetcode-submissions](https://github.com/serhii-kucherenko/neetcode-submissions) | Algorithm reps, mostly to keep the fundamentals warm. | JavaScript |
 
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-Ten years in, the throughline isn't a stack or a domain - it's a **way of working**. 
+Ten years in, the throughline isn't a stack or a domain - it's a **way of working**.
 
-I like the seam between **product and systems**: 
+I like the seam between **product and systems**:
 - Product work keeps me honest about whether anything I build matters to a real person
 - Systems work is where I get to think about **leverage** — the architecture that makes the next ten features cheaper, faster, or possible at all
 
@@ -48,38 +48,38 @@ I oscillate between them on purpose. Too much of either one rots in predictable 
 
 ```javascript
 const myApproach = {
-  communication: "direct",
-  philosophy: "opinionated about craft",
-  tolerance: "allergic to ceremony that doesn't earn its keep",
-  shipping: "ship a sharp v1 and learn > polish a v3 in the dark",
-  
-  belief: "The strongest engineers hold three things in their head at once:",
-  triad: [
-    "the user",
-    "the codebase", 
-    "the team"
+  communication: "direct, early, specific",
+  taste: "small parts with clear edges",
+  tolerance: "ceremony has to earn its keep",
+  shipping: "thin useful thing first, then learn from it",
+
+  currentBias: [
+    "Python backends",
+    "agent workflows",
+    "RAG and memory",
+    "docs that help developers decide"
   ],
-  skill: "Notice when the three are pulling in different directions"
+  constraint: "keep the system legible while it grows"
 };
 ```
 
 #### Outside of work:
 
 - 🤔 Curious by default, planner by habit
-- 👥 More comfortable in small groups than crowds  
+- 👥 More comfortable in small groups than crowds
 - 💭 Take people and ideas seriously — including the ones I disagree with
 
 ---
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> What I Work On
 
-The intersection of **product** and **systems**. I care about:
+The intersection of **product** and **systems**, lately through:
 
-- 🏗️ Architecture that enables, not constrains
-- 🎯 Aligning technical decisions with user needs
-- 👥 Building strong teams that ship with confidence
-- 🔄 The feedback loop: user → product → system → user
-- 📈 Sustainable pace and quality over burnout and shortcuts
+- 🤖 AI agents that use tools, retrieval, and memory without pretending to be magic
+- 🧱 Backend APIs with clear workflow boundaries
+- 📚 Developer docs and guides that help people make decisions
+- 🔄 Product loops where user behavior shapes the system
+- 🧠 Fundamentals practice so the basics stay sharp
 
 ---
 
@@ -89,24 +89,24 @@ The intersection of **product** and **systems**. I care about:
 
 **Frontend:** React, Next.js, React Native
 
-**Backend:** Node.js, Express, FastAPI
+**Backend:** FastAPI, Node.js, Express, async SQLAlchemy
 
-**Databases:** PostgreSQL, Neon, Supabase, Drizzle (ORM)
+**Data & Workflows:** PostgreSQL, Neon, Supabase, Drizzle, Temporal, vector search
 
-**APIs & Infrastructure:** REST, GraphQL, Vercel, Fly.io, GCP, Docker, CI/CD, Upstash QStash
+**APIs & Infrastructure:** REST, GraphQL, Vercel, Fly.io, GCP, Docker, CI/CD
 
-**AI/ML:** 
-- Major LLM Providers (OpenAI, Anthropic, Google, DeepSeek)
-- Function Calling & Tool Use
-- Prompt Engineering & Automated Eval Pipelines
-- Agent Orchestration & AI-Native Dev Workflows
+**AI/Agents:**
+- Tool use, RAG, and agent memory
+- LlamaIndex and LangGraph experiments
+- Evaluation loops and audit trails
+- Practical LLM integration, not demos for demos' sake
 
 **Specialties:**
 - Full-stack product development (web & mobile)
-- AI-powered systems & LLM integration
+- AI agents, RAG, and LLM integration
 - Backend systems & API design
 - System architecture & scalability
-- Healthcare & fintech domain expertise
+- Developer tooling and technical documentation
 - Team leadership & technical mentoring
 - Shipping fast without cutting corners
 
@@ -114,16 +114,16 @@ The intersection of **product** and **systems**. I care about:
 
 ### 💡 Current Interests
 
-- How to build products that matter
-- Scaling small teams effectively
+- Agent memory that is useful instead of noisy
+- RAG systems that can explain their work
+- Workflow engines for product backends
+- Auth and authorization that developers can reason about
 - Architecture that stays simple as it grows
-- The craft of engineering leadership
-- Writing clear code that teams can trust
 
 ---
 
 ### 🚀 Let's Work Together
 
-Whether you're building a product, scaling a team, or rethinking how your engineering organization works — I'm interested in having that conversation.
+If you're building a product, scaling a team, or sorting out a messy system, I'm open to the conversation.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out. Let's build something that matters.**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out. Let's compare notes.**
