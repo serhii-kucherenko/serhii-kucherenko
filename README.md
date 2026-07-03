@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: git history tooling, Python agents, RAG, auth docs, and FastAPI APIs.</em></p>
+<p><em>Founding full-stack engineer. Lately: git history tools, Python agents, RAG, auth docs, and FastAPI APIs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Git+history+tools+%7C+team+onboarding;Python+agents+%7C+RAG+%7C+memory;FastAPI+APIs+%7C+Next.js+docs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Git+history+tools+%7C+team+onboarding;Python+agents+%7C+RAG+%7C+memory;FastAPI+APIs+%7C+auth+docs+%7C+Next.js)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -90,11 +90,11 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,supabase,docker,aws,gcp,vercel&perline=7)](https://skillicons.dev)
 
-**Languages:** Python · TypeScript / JavaScript · SQL. Python and TypeScript lead right now.
+**Languages:** Python · TypeScript / JavaScript · SQL. Recent repos lean Python and TypeScript.
 
-**Frontend:** React · Next.js · Tailwind. Docs, dashboards, local tools, and small apps.
+**Frontend:** React · Next.js · Tailwind. Docs, dashboards, local tools, and one habit app.
 
-**Backend:** FastAPI · Node.js · Temporal · GraphQL. APIs, workers, CLIs, and glue.
+**Backend:** FastAPI · Node.js · Temporal · GraphQL. APIs, workers, CLIs, and audit trails.
 
 **Databases:** PostgreSQL · SQLAlchemy · MongoDB · Qdrant · vector search
 
@@ -102,8 +102,8 @@ $ █
 
 **AI/ML:**
 - OpenAI · Google Gemini · Hugging Face · Groq
-- RAG systems · embeddings · vector stores · context packing
-- Tool use · agent evaluation · audit trails
+- RAG · embeddings · vector stores · context packing
+- Tool use · agent evaluation · persistent memory
 - LangGraph · LlamaIndex · smolagents
 
 **Domain:** git history tools · AI agents · RAG · auth docs · workforce APIs · small Next.js apps
