@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Lately: git history tools, Python agents, RAG, auth docs, and FastAPI APIs.</em></p>
+<p><em>Founding full-stack engineer. Lately: git history tools, Python agents, RAG, auth docs, and workforce APIs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Git+history+tools+%7C+team+onboarding;Python+agents+%7C+RAG+%7C+memory;FastAPI+APIs+%7C+auth+docs+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Git+history+tools+%7C+team+onboarding;Python+agents+%7C+RAG+%7C+memory;Workforce+APIs+%7C+auth+docs+%7C+Next.js)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -19,11 +19,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [GitChange](https://github.com/serhii-kucherenko/GitChange) | Analyzes local git history for teammate onboarding and maintenance | TypeScript |
-| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Tests workforce APIs with FastAPI, Temporal, and audit trails | Python |
-| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Answers GAIA tasks with tools, verification, and Gradio UI | Python |
-| [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Builds a RAG gala concierge with LlamaIndex and custom tools | Python |
-| [habit-tracker-next](https://github.com/serhii-kucherenko/habit-tracker-next) | Tracks habits with Next.js, GraphQL, MongoDB, and Vercel | JavaScript |
+| [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding notes for engineering teams | TypeScript |
+| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Exercises workforce APIs with FastAPI, Temporal, and audit trails | Python |
+| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA tasks with tools, checks, and a Gradio UI | Python |
+| [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Runs a RAG concierge for gala questions and event details | Python |
+| [habit-tracker-next](https://github.com/serhii-kucherenko/habit-tracker-next) | Tracks personal habits in a small Next.js practice app | JavaScript |
 <!-- PROJECTS_END -->
 
 ---
@@ -92,7 +92,7 @@ $ █
 
 **Languages:** Python · TypeScript / JavaScript · SQL. Recent repos lean Python and TypeScript.
 
-**Frontend:** React · Next.js · Tailwind. Docs, dashboards, local tools, and one habit app.
+**Frontend:** React · Next.js · Tailwind. Docs, local tools, portfolios, and one habit app.
 
 **Backend:** FastAPI · Node.js · Temporal · GraphQL. APIs, workers, CLIs, and audit trails.
 
@@ -106,7 +106,7 @@ $ █
 - Tool use · agent evaluation · persistent memory
 - LangGraph · LlamaIndex · smolagents
 
-**Domain:** git history tools · AI agents · RAG · auth docs · workforce APIs · small Next.js apps
+**Domain:** git history tools · AI agents · RAG · auth docs · workforce APIs · small product apps
 
 ---
 
