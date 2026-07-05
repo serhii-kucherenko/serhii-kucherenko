@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Lately: git history tools, Python agents, RAG, auth docs, and workforce APIs.</em></p>
+<p><em>Founding full-stack engineer. Lately: Python RAG, git history tools, agent memory, workforce APIs, and auth docs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Git+history+tools+%7C+team+onboarding;Python+agents+%7C+RAG+%7C+memory;Workforce+APIs+%7C+auth+docs+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Python+RAG+%7C+agents+%7C+memory;Git+history+tools+%7C+team+onboarding;Workforce+APIs+%7C+auth+docs+%7C+Next.js)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -19,11 +19,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding notes for engineering teams | TypeScript |
-| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Exercises workforce APIs with FastAPI, Temporal, and audit trails | Python |
-| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA tasks with tools, checks, and a Gradio UI | Python |
-| [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Runs a RAG concierge for gala questions and event details | Python |
-| [habit-tracker-next](https://github.com/serhii-kucherenko/habit-tracker-next) | Tracks personal habits in a small Next.js practice app | JavaScript |
+| [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with local Qdrant-backed RAG | Python |
+| [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding evidence for new teammates | TypeScript |
+| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Exercises workforce APIs with Temporal workflows and audit trails | Python |
+| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA questions with tools, checks, and Gradio | Python |
+| [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Runs a RAG concierge for gala guests and event questions | Python |
 <!-- PROJECTS_END -->
 
 ---
@@ -88,25 +88,25 @@ $ █
 
 ### 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,supabase,docker,aws,gcp,vercel&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Python · TypeScript / JavaScript · SQL. Recent repos lean Python and TypeScript.
+**Languages:** Python · TypeScript / JavaScript · SQL. Recent repos are mostly Python, then TypeScript.
 
-**Frontend:** React · Next.js · Tailwind. Docs, local tools, portfolios, and one habit app.
+**Frontend:** React · Next.js · Tailwind. Docs, local dashboards, portfolios, and small apps.
 
-**Backend:** FastAPI · Node.js · Temporal · GraphQL. APIs, workers, CLIs, and audit trails.
+**Backend:** FastAPI · Node.js · Temporal. APIs, workers, CLIs, and audit trails.
 
-**Databases:** PostgreSQL · SQLAlchemy · MongoDB · Qdrant · vector search
+**Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant · vector search
 
 **Infra:** Vercel · Docker · CI/CD · Temporal · pnpm/Turbo monorepos
 
 **AI/ML:**
-- OpenAI · Google Gemini · Hugging Face · Groq
+- OpenAI · Google Gemini · Hugging Face
 - RAG · embeddings · vector stores · context packing
 - Tool use · agent evaluation · persistent memory
-- LangGraph · LlamaIndex · smolagents
+- LangChain · LangGraph · LlamaIndex · smolagents
 
-**Domain:** git history tools · AI agents · RAG · auth docs · workforce APIs · small product apps
+**Domain:** script RAG · git history tools · AI agents · agent memory · workforce APIs · auth docs
 
 ---
 
