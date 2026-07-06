@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Lately: Python RAG, git history tools, agent memory, workforce APIs, and auth docs.</em></p>
+<p><em>Founding full-stack engineer. Lately: Dune RAG, git-history onboarding, FastAPI/Temporal APIs, agent memory, and auth docs.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Python+RAG+%7C+agents+%7C+memory;Git+history+tools+%7C+team+onboarding;Workforce+APIs+%7C+auth+docs+%7C+Next.js)](https://git.io/typing-svg)
 
@@ -94,17 +94,17 @@ $ █
 
 **Frontend:** React · Next.js · Tailwind. Docs, local dashboards, portfolios, and small apps.
 
-**Backend:** FastAPI · Node.js · Temporal. APIs, workers, CLIs, and audit trails.
+**Backend:** FastAPI · Node.js · Temporal. Workforce APIs, local CLIs, workers, and audit trails.
 
-**Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant · vector search
+**Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant · vector search. Practical, not exotic.
 
 **Infra:** Vercel · Docker · CI/CD · Temporal · pnpm/Turbo monorepos
 
 **AI/ML:**
 - OpenAI · Google Gemini · Hugging Face
-- RAG · embeddings · vector stores · context packing
+- RAG · embeddings · Qdrant · context packing
 - Tool use · agent evaluation · persistent memory
-- LangChain · LangGraph · LlamaIndex · smolagents
+- LangChain · LangGraph · LlamaIndex · smolagents · Gradio
 
 **Domain:** script RAG · git history tools · AI agents · agent memory · workforce APIs · auth docs
 
