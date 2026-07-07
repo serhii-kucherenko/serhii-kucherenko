@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Lately: Dune RAG, git-history onboarding, FastAPI/Temporal APIs, agent memory, and auth docs.</em></p>
+<p><em>Founding full-stack engineer. Recent repos: RAG agents, git-history onboarding, FastAPI/Temporal APIs, agent memory, auth docs.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Python+RAG+%7C+agents+%7C+memory;Git+history+tools+%7C+team+onboarding;Workforce+APIs+%7C+auth+docs+%7C+Next.js)](https://git.io/typing-svg)
 
@@ -19,10 +19,10 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with local Qdrant-backed RAG | Python |
+| [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with a local Qdrant-backed RAG | Python |
 | [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding evidence for new teammates | TypeScript |
-| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Exercises workforce APIs with Temporal workflows and audit trails | Python |
-| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA questions with tools, checks, and Gradio | Python |
+| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Practices workforce APIs with Temporal workflows and audit trails | Python |
+| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA questions with tools, model routing, and checks | Python |
 | [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Runs a RAG concierge for gala guests and event questions | Python |
 <!-- PROJECTS_END -->
 
@@ -90,15 +90,15 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Python · TypeScript / JavaScript · SQL. Recent repos are mostly Python, then TypeScript.
+**Languages:** Python first right now. TypeScript / JavaScript and SQL close by.
 
-**Frontend:** React · Next.js · Tailwind. Docs, local dashboards, portfolios, and small apps.
+**Frontend:** React · Next.js · Tailwind. Docs sites, local dashboards, portfolios, small apps.
 
-**Backend:** FastAPI · Node.js · Temporal. Workforce APIs, local CLIs, workers, and audit trails.
+**Backend:** FastAPI · Node.js · Temporal. API labs, workers, local tooling, audit trails.
 
 **Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant · vector search. Practical, not exotic.
 
-**Infra:** Vercel · Docker · CI/CD · Temporal · pnpm/Turbo monorepos
+**Infra:** Vercel · Docker · CI/CD · Temporal · pnpm/Turbo monorepos. Enough glue.
 
 **AI/ML:**
 - OpenAI · Google Gemini · Hugging Face
@@ -106,7 +106,7 @@ $ █
 - Tool use · agent evaluation · persistent memory
 - LangChain · LangGraph · LlamaIndex · smolagents · Gradio
 
-**Domain:** script RAG · git history tools · AI agents · agent memory · workforce APIs · auth docs
+**Domain:** script RAG · git history onboarding · AI agents · agent memory · workforce APIs · auth docs
 
 ---
 
