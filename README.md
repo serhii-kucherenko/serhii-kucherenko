@@ -12,6 +12,26 @@
 
 ---
 
+### 🎯 Goals
+
+- [ ] 🧩 500 LeetCode problems solved
+- [ ] 🔥 100 day streak
+- [ ] 📈 10,000+ total contributions by end of 2026
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="160" src="https://gh-stats.work/api/top-langs/?username=serhii-kucherenko&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/serhii-kucherenko?theme=dark&hide_border=true&ext=contest" />
+</p>
+
+---
+
 ### 🚀 Recent Projects
 
 *Auto-updated weekly.*
@@ -25,26 +45,6 @@
 | [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA questions with tools, model routing, and checks | Python |
 | [hf-gala-event](https://github.com/serhii-kucherenko/hf-gala-event) | Runs a RAG concierge for gala guests and event questions | Python |
 <!-- PROJECTS_END -->
-
----
-
-### 🎯 Goals
-
-- [ ] 🧩 500 LeetCode problems solved
-- [ ] 🔥 100 day streak
-- [ ] 📈 10,000+ total contributions by end of 2026
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-kucherenko&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <img src="https://streak-stats.demolab.com?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/serhii-kucherenko?theme=dark&hide_border=true&ext=contest" />
-</p>
 
 ---
 
