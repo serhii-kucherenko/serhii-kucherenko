@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent repos: AI-dev research loops, RAG agents, git-history onboarding, FastAPI/Temporal APIs, auth docs.</em></p>
+<p><em>Founding full-stack engineer. Recent repos: AI-dev research, RAG agents, git-history onboarding, FastAPI/Temporal APIs, Hugging Face course agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI-assisted+dev+%7C+RAG+agents+%7C+memory;Git+history+onboarding+%7C+auth+docs;FastAPI+workflows+%7C+Next.js+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI-assisted+dev+%7C+RAG+agents+%7C+memory;Git+history+onboarding+%7C+FastAPI+workflows;Hugging+Face+agents+%7C+Next.js+docs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -43,7 +43,7 @@
 | [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with local embeddings and Qdrant | Python |
 | [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding tours and evidence dashboards | TypeScript |
 | [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Practices workforce APIs with Temporal workflows and audit trails | Python |
-| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA questions with tools, model routing, and checks | Python |
+| [hf-agents-assesment](https://github.com/serhii-kucherenko/hf-agents-assesment) | Solves GAIA tasks with tools, routing, and sanity checks | Python |
 <!-- PROJECTS_END -->
 
 ---
@@ -90,23 +90,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Python does most of the work. TypeScript / JavaScript handles dashboards and docs. SQL appears when APIs need state.
+**Languages:** Python is the default lately. TypeScript / JavaScript cover dashboards, docs, and older apps. SQL shows up when state needs shape.
 
-**Frontend:** React · Next.js · Tailwind. Local dashboards, docs sites, habit apps.
+**Frontend:** React · Next.js · Tailwind. Mostly docs sites, local dashboards, and small apps.
 
-**Backend:** FastAPI · Node.js · Temporal. API labs, workers, research harnesses, audit trails.
+**Backend:** FastAPI · Node.js · Temporal. APIs, workers, agent harnesses, audit trails.
 
-**Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant. Vector search when retrieval needs it.
+**Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs it.
 
-**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo monorepos. Temporal when workflows matter.
+**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo. uv for Python projects. Temporal when workflows stop being simple.
 
 **AI/ML:**
-- OpenAI · Google Gemini · Hugging Face
+- OpenAI · Google Gemini · Hugging Face · Groq/Ollama
 - RAG · embeddings · Qdrant · context packing
 - Tool use · agent evaluation · persistent memory · answer checks
 - LangChain · LangGraph · LlamaIndex · smolagents · Gradio
 
-**Domain:** AI-assisted dev research · script RAG · git history onboarding · AI agents · agent memory · workforce APIs · auth docs
+**Domain:** AI-assisted dev research · script RAG · git-history onboarding · Hugging Face agents · agent memory · workforce APIs · auth docs
 
 ---
 
