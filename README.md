@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent repos: AI-dev research, agentic RAG, git-history onboarding, FastAPI/Temporal APIs, Hugging Face agents, auth docs.</em></p>
+<p><em>Founding full-stack engineer. Recent repos: AI-dev research, RAG/memory agents, git-history onboarding, FastAPI/Temporal APIs, auth docs, small Next.js apps.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI-dev+research+%7C+agentic+RAG+%7C+memory;Git-history+onboarding+%7C+FastAPI+workflows;Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI-dev+research+%7C+RAG+and+memory;Git-history+onboarding+%7C+FastAPI+workflows;Hugging+Face+agents+%7C+auth+docs+%7C+Next.js+apps)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -90,23 +90,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Python is the default lately. TypeScript / JavaScript cover dashboards, docs, and older apps. SQL shows up when data has relationships.
+**Languages:** Python leads the recent repos. TypeScript / JavaScript cover docs, dashboards, and small apps. SQL appears when state needs shape.
 
-**Frontend:** React · Next.js · Tailwind. Docs sites, local dashboards, and small apps.
+**Frontend:** React · Next.js · Tailwind. Mostly docs, local dashboards, and compact apps.
 
 **Backend:** FastAPI · Node.js · Temporal. APIs, workers, agent harnesses, audit trails.
 
 **Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs it.
 
-**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Temporal when workflows stop being simple.
+**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Temporal when simple jobs get stateful.
 
 **AI/ML:**
 - OpenAI · Gemini · Hugging Face · LangChain · LangGraph · LlamaIndex
 - RAG · embeddings · Qdrant · BM25 · context packing
 - Tool use · agent evaluation · persistent memory · answer checks
-- smolagents · Gradio · LiteLLM
+- smolagents · Gradio
 
-**Domain:** AI-assisted dev research · script and event RAG · git-history onboarding · workforce API labs · Hugging Face agents · agent memory · auth docs · small Next.js apps
+**Domain:** AI-dev research · script/event RAG · git-history onboarding · workforce API labs · Hugging Face agents · agent memory · auth docs · small Next.js apps
 
 ---
 
