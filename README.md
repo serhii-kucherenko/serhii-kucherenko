@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent repos skew Python: AI-dev research harnesses, RAG agents, FastAPI/Temporal APIs, git-history tools, auth docs, and small Next.js sites.</em></p>
+<p><em>Founding full-stack engineer. Recent repos skew Python: AI research harnesses, RAG agents, FastAPI/Temporal APIs, git-history tools, auth docs, and small Next.js sites.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI-dev+research+%7C+RAG+agents+%7C+memory;Git-history+onboarding+%7C+FastAPI+and+Temporal+APIs;Hugging+Face+agents+%7C+auth+docs+%7C+Next.js+sites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+research+harnesses+%7C+RAG+agents+%7C+memory;Git-history+onboarding+%7C+FastAPI+and+Temporal+APIs;Hugging+Face+agents+%7C+auth+docs+%7C+Next.js+sites)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
