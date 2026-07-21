@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: Next.js design labs, AI-dev research, RAG agents, git-history tools, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: Next.js portfolio labs, AI-method benchmarks, research harnesses, RAG, git-history tools, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Next.js+design+labs+%7C+AI-dev+research+%7C+RAG;Git-history+onboarding+%7C+FastAPI+and+Temporal+APIs;Hugging+Face+agents+%7C+auth+docs+%7C+agent+memory)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Next.js+portfolio+labs+%7C+AI+method+benchmarks;Research+harnesses+%7C+RAG+and+git-history+tools;FastAPI+and+Temporal+APIs+%7C+Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -44,11 +44,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio designs with scored Next.js interface variants | TypeScript |
-| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs chat-driven research loops for AI-assisted development work | Python |
+| [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio designs through scored Next.js interface experiments | TypeScript |
+| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding approaches across projects and review oracles | TypeScript |
+| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development | Python |
 | [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with local embeddings and Qdrant | Python |
-| [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding tours and evidence dashboards | TypeScript |
-| [hireflow-lab](https://github.com/serhii-kucherenko/hireflow-lab) | Practices workforce APIs with Temporal workflows and audit trails | Python |
+| [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding tours for teams | TypeScript |
 <!-- PROJECTS_END -->
 
 ---
@@ -95,23 +95,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Recent repos split Python and TypeScript. JavaScript appears in older Next.js work. SQL shows up around app state.
+**Languages:** Recent repos split TypeScript and Python. JavaScript appears in older Next.js work. SQL shows up around API state.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio labs, docs sites, dashboards, habit tracking. Some motion/3D.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments, docs tools, habit tracking. Some motion and 3D.
 
 **Backend:** FastAPI · Temporal · Node.js tooling. APIs, workers, research harnesses, audit trails.
 
-**Databases:** PostgreSQL · SQLAlchemy · Qdrant · MongoDB. Relational state first. Vectors when retrieval needs it.
+**Databases:** PostgreSQL · SQLAlchemy · Qdrant · MongoDB. Relational app state. Vectors when retrieval earns it.
 
-**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Local-first where useful. Temporal when jobs need state.
+**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Playwright and pytest for proof. Temporal when jobs need state.
 
 **AI/ML:**
-- OpenAI · Gemini · Hugging Face · LangChain · LangGraph · LlamaIndex
+- OpenAI · Hugging Face · LangChain · LlamaIndex
 - RAG · embeddings · Qdrant · BM25 · context packing
-- Tool use · agent evaluation · persistent memory · answer checks
+- Research harnesses · benchmark matrices · review oracles · answer checks
 - smolagents · Gradio
 
-**Domain:** Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · agent memory · auth docs · habit tracking
+**Domain:** Next.js portfolio labs · AI-method benchmarks · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · auth docs · habit tracking
 
 ---
 
