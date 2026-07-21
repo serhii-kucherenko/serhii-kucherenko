@@ -7,7 +7,8 @@ import json
 import os
 import re
 import ssl
-import sys
+import time
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 
@@ -24,7 +25,7 @@ def token() -> str:
     raise SystemExit("Need PROFILE_STATS_TOKEN, GH_TOKEN, or GITHUB_TOKEN")
 
 
-def graphql(query: str, auth: str) -> dict:
+def graphql(query: str, auth: str, attempts: int = 5) -> dict:
     req = urllib.request.Request(
         "https://api.github.com/graphql",
         data=json.dumps({"query": query}).encode("utf-8"),
@@ -35,8 +36,24 @@ def graphql(query: str, auth: str) -> dict:
         },
         method="POST",
     )
-    with urllib.request.urlopen(req, context=ssl.create_default_context()) as resp:
-        return json.load(resp)
+    last_error: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        try:
+            with urllib.request.urlopen(
+                req, context=ssl.create_default_context(), timeout=60
+            ) as resp:
+                return json.load(resp)
+        except urllib.error.HTTPError as exc:
+            last_error = exc
+            if exc.code not in {502, 503, 504} or attempt == attempts:
+                raise
+            time.sleep(2 ** attempt)
+        except TimeoutError as exc:
+            last_error = exc
+            if attempt == attempts:
+                raise
+            time.sleep(2 ** attempt)
+    raise RuntimeError(f"GraphQL failed after retries: {last_error}")
 
 
 def year_total(auth: str, year: int) -> int:
