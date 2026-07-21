@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: AI-dev research, RAG agents, git-history tools, FastAPI/Temporal APIs, auth docs, and Next.js design/site experiments.</em></p>
+<p><em>Founding full-stack engineer. Recent work: Next.js design labs, AI-dev research, RAG agents, git-history tools, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI-method+portfolio+labs+%7C+AI-dev+research+%7C+RAG;Git-history+onboarding+%7C+FastAPI+and+Temporal+APIs;Hugging+Face+agents+%7C+auth+docs+%7C+Next.js+sites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Next.js+design+labs+%7C+AI-dev+research+%7C+RAG;Git-history+onboarding+%7C+FastAPI+and+Temporal+APIs;Hugging+Face+agents+%7C+auth+docs+%7C+agent+memory)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -90,15 +90,15 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Recent repos split Python and TypeScript. JavaScript still appears in older Next.js work. SQL handles app state.
+**Languages:** Recent repos split Python and TypeScript. JavaScript appears in older Next.js work. SQL shows up around app state.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, docs sites, dashboards, habit tracking.
+**Frontend:** React · Next.js · Tailwind. Portfolio labs, docs sites, dashboards, habit tracking. Some motion/3D.
 
-**Backend:** FastAPI · Node.js · Temporal. APIs, workers, research harnesses, audit trails.
+**Backend:** FastAPI · Temporal · Node.js tooling. APIs, workers, research harnesses, audit trails.
 
-**Databases:** PostgreSQL · SQLite · SQLAlchemy · Qdrant. Relational state first. Vectors for retrieval.
+**Databases:** PostgreSQL · SQLAlchemy · Qdrant · MongoDB. Relational state first. Vectors when retrieval needs it.
 
-**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Local-first by default. Temporal when jobs need state.
+**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Local-first where useful. Temporal when jobs need state.
 
 **AI/ML:**
 - OpenAI · Gemini · Hugging Face · LangChain · LangGraph · LlamaIndex
@@ -106,7 +106,7 @@ $ █
 - Tool use · agent evaluation · persistent memory · answer checks
 - smolagents · Gradio
 
-**Domain:** AI-method portfolio experiments · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · agent memory · auth docs · small Next.js sites
+**Domain:** Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · agent memory · auth docs · habit tracking
 
 ---
 
