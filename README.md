@@ -19,6 +19,10 @@
 - [x] 📈 10,000+ total contributions
 - [ ] 📈 50,000+ total contributions by end of 2026
 
+<!-- LIVE_STATS:START -->
+**Live contribution total:** **10,175** (last refreshed 2026-07-21 UTC)
+<!-- LIVE_STATS:END -->
+
 ---
 
 ### 📊 Stats

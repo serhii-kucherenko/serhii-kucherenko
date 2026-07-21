@@ -1,0 +1,46 @@
+name: Update live stats
+
+on:
+  schedule:
+    # Four times a day — keeps the total current without relying on public SVG hosts.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update-live-stats.py"
+      - ".github/workflows/update-live-stats.yml"
+
+concurrency:
+  group: update-live-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Refresh contribution total
+        env:
+          # Prefer a PAT so private contributions count toward the total.
+          # Without it, public-visible totals still refresh.
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: serhii-kucherenko
+        run: python3 scripts/update-live-stats.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh live contribution total [skip ci]"
+          git push
