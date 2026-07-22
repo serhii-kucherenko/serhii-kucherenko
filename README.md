@@ -4,7 +4,7 @@
 
 <p><em>Founding full-stack engineer. Recent work: Next.js portfolio labs, AI-method benchmarks, research harnesses, RAG, git-history tools, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Next.js+portfolio+labs+%7C+AI+method+benchmarks;Research+harnesses+%7C+RAG+and+git-history+tools;FastAPI+and+Temporal+APIs+%7C+Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Next.js+portfolio+labs+%7C+AI-method+benchmarks;Research+harnesses+%7C+RAG+and+git-history+tools;FastAPI+and+Temporal+APIs+%7C+Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -44,8 +44,8 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio designs through scored Next.js interface experiments | TypeScript |
 | [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding approaches across projects and review oracles | TypeScript |
+| [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio designs through scored Next.js interface experiments | TypeScript |
 | [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development | Python |
 | [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with local embeddings and Qdrant | Python |
 | [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding tours for teams | TypeScript |
