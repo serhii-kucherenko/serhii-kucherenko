@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: Next.js portfolio labs, AI-method benchmarks, research harnesses, RAG, git-history tools, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: AI-method benchmarks, Next.js portfolio labs, Python research harnesses, RAG, git-history onboarding, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Next.js+portfolio+labs+%7C+AI-method+benchmarks;Research+harnesses+%7C+RAG+and+git-history+tools;FastAPI+and+Temporal+APIs+%7C+Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
 
@@ -95,13 +95,13 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Recent repos split TypeScript and Python. JavaScript appears in older Next.js work. SQL shows up around API state.
+**Languages:** Recent repos split TypeScript and Python. JavaScript shows up in smaller Next.js work. SQL sits around API state.
 
 **Frontend:** React · Next.js · Tailwind. Portfolio experiments, docs tools, habit tracking. Some motion and 3D.
 
 **Backend:** FastAPI · Temporal · Node.js tooling. APIs, workers, research harnesses, audit trails.
 
-**Databases:** PostgreSQL · SQLAlchemy · Qdrant · MongoDB. Relational app state. Vectors when retrieval earns it.
+**Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational app state. Vectors when retrieval earns it.
 
 **Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Playwright and pytest for proof. Temporal when jobs need state.
 
