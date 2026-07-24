@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: AI-method benchmarks, Next.js portfolio labs, Python research harnesses, RAG, git-history onboarding, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: AI workflow benchmarks, Next.js portfolio labs, Python research harnesses, RAG, git-history onboarding, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Next.js+portfolio+labs+%7C+AI-method+benchmarks;Research+harnesses+%7C+RAG+and+git-history+tools;FastAPI+and+Temporal+APIs+%7C+Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+benchmarks+%7C+Next.js+portfolio+labs;Python+research+harnesses+%7C+RAG+and+git-history+tools;FastAPI+and+Temporal+APIs+%7C+Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -97,7 +97,7 @@ $ █
 
 **Languages:** Recent repos split TypeScript and Python. JavaScript shows up in smaller Next.js work. SQL sits around API state.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, docs tools, habit tracking. Some motion and 3D.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments, auth docs, habit tracking. Some motion and 3D.
 
 **Backend:** FastAPI · Temporal · Node.js tooling. APIs, workers, research harnesses, audit trails.
 
@@ -111,7 +111,7 @@ $ █
 - Research harnesses · benchmark matrices · review oracles · answer checks
 - smolagents · Gradio
 
-**Domain:** Next.js portfolio labs · AI-method benchmarks · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · auth docs · habit tracking
+**Domain:** AI workflow benchmarks · Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · auth docs · habit tracking
 
 ---
 
