@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: AI workflow benchmarks, Next.js portfolio labs, Python research harnesses, RAG, git-history onboarding, FastAPI/Temporal APIs, Hugging Face agents, and auth docs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: AI workflow benchmarks, issue idea harvesters, Next.js portfolio experiments, Python research harnesses, RAG, git-history onboarding, FastAPI/Temporal APIs, and Hugging Face agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+benchmarks+%7C+Next.js+portfolio+labs;Python+research+harnesses+%7C+RAG+and+git-history+tools;FastAPI+and+Temporal+APIs+%7C+Hugging+Face+agents+%7C+auth+docs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+benchmarks+%7C+issue+idea+harvesters;Next.js+portfolio+labs+%7C+git-history+onboarding;Python+research+harnesses+%7C+RAG%2C+FastAPI%2C+agents)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -44,11 +44,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding approaches across projects and review oracles | TypeScript |
-| [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio designs through scored Next.js interface experiments | TypeScript |
-| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development | Python |
-| [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with local embeddings and Qdrant | Python |
-| [GitChange](https://github.com/serhii-kucherenko/GitChange) | Turns git history into onboarding tours for teams | TypeScript |
+| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across product experiments and review oracles | TypeScript |
+| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Finds product ideas in old tracker issues maintainers skipped | Python |
+| [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio concepts through scored Next.js design experiments | TypeScript |
+| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs research loops for sturdier AI-assisted development workflows | Python |
+| [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with embeddings and local Qdrant | Python |
 <!-- PROJECTS_END -->
 
 ---
@@ -95,11 +95,11 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Recent repos split TypeScript and Python. JavaScript shows up in smaller Next.js work. SQL sits around API state.
+**Languages:** Recent repos split TypeScript and Python. JavaScript still shows up in older Next.js work. SQL is API plumbing.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, auth docs, habit tracking. Some motion and 3D.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history UIs, habit tracking. Some motion and 3D.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. APIs, workers, research harnesses, audit trails.
+**Backend:** FastAPI · Temporal · Node.js tooling. APIs, workers, idea harvesters, audit trails.
 
 **Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational app state. Vectors when retrieval earns it.
 
@@ -111,7 +111,7 @@ $ █
 - Research harnesses · benchmark matrices · review oracles · answer checks
 - smolagents · Gradio
 
-**Domain:** AI workflow benchmarks · Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · auth docs · habit tracking
+**Domain:** AI workflow benchmarks · issue idea harvesting · Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · habit tracking
 
 ---
 
