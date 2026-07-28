@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: AI workflow benchmarks, issue idea harvesters, Next.js portfolio experiments, Python research harnesses, RAG, git-history onboarding, FastAPI/Temporal APIs, and Hugging Face agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: AI workflow labs, research harnesses, issue idea harvesting, Next.js portfolio experiments, RAG, git-history onboarding, FastAPI/Temporal APIs, and Hugging Face agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+benchmarks+%7C+issue+idea+harvesters;Next.js+portfolio+labs+%7C+git-history+onboarding;Python+research+harnesses+%7C+RAG%2C+FastAPI%2C+agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+labs+%7C+research+harnesses;Issue+idea+harvesting+%7C+git-history+onboarding;RAG%2C+FastAPI%2C+Hugging+Face+agents)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -45,9 +45,9 @@
 | Project | What it does | Language |
 |---------|-------------|----------|
 | [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across product experiments and review oracles | TypeScript |
+| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs research loops for sturdier AI-assisted development workflows | Python |
 | [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Finds product ideas in old tracker issues maintainers skipped | Python |
 | [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio concepts through scored Next.js design experiments | TypeScript |
-| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs research loops for sturdier AI-assisted development workflows | Python |
 | [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with embeddings and local Qdrant | Python |
 <!-- PROJECTS_END -->
 
