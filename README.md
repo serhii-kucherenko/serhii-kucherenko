@@ -1,10 +1,10 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFzcasrg/giphy.gif" width="29"/></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>Founding full-stack engineer. Recent work: AI workflow labs, research harnesses, issue idea harvesting, Next.js portfolio experiments, RAG, git-history onboarding, FastAPI/Temporal APIs, and Hugging Face agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+labs+%7C+research+harnesses;Issue+idea+harvesting+%7C+git-history+onboarding;RAG%2C+FastAPI%2C+Hugging+Face+agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+labs+%7C+research+harnesses;Issue+idea+harvesting+%7C+git-history;Next.js+portfolio+labs+%7C+RAG;FastAPI+%7C+Temporal+%7C+Hugging+Face)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -28,7 +28,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://gh-stats.work/api/top-langs/?username=serhii-kucherenko&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-kucherenko&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
   <img src="https://streak-stats.demolab.com/?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
 </p>
 <p align="center">
@@ -65,7 +65,7 @@ I like the seam between **product and systems**:
 
 I oscillate between them on purpose. Too much of either one rots in predictable ways.
 
-A few things I've shipped that had numbers attached: 85% page load reduction. $78K/yr in infra savings. Healthcare AI scheduling system from zero to multi-org. Financial MVP in 2 months → secured follow-on investment.
+A few things I've shipped that had numbers attached: 85% page load reduction. $78K/yr in infra savings. Healthcare AI scheduling system from zero to multi-org. Financial MVP in 2 months → secure processing for 50K users. Research harness that let a 4-person team benchmark 1000+ AI workflows and catch prompt-poisoning before it shipped.
 
 #### What I'm actually like to work with:
 
@@ -111,7 +111,7 @@ $ █
 - Research harnesses · benchmark matrices · review oracles · answer checks
 - smolagents · Gradio
 
-**Domain:** AI workflow benchmarks · issue idea harvesting · Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · habit tracking
+**Domain:** AI workflow benchmarks · issue idea harvesting · Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · habitat modeling.
 
 ---
 
