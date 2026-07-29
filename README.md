@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: research loops, idea harvesters, AI workflow benchmarks, portfolio experiments, CLI tools, git onboarding, FastAPI APIs, and Hugging Face agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: issue mining, research loops, AI workflow benchmarks, portfolio experiments, git onboarding, RAG apps, workforce APIs, and Hugging Face agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Research+loops+%7C+issue+idea+harvesting;AI+workflow+benchmarks+%7C+portfolio+labs;Git+onboarding+%7C+FastAPI+%7C+Hugging+Face+agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Issue+mining+%7C+research+loops;AI+workflow+benchmarks+%7C+portfolio+labs;Git+onboarding+%7C+RAG+%7C+Hugging+Face+agents)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
