@@ -1,10 +1,10 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFzcasrg/giphy.gif" width="29"/></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Serhii Kucherenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29"/></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: AI workflow labs, research harnesses, issue idea harvesting, Next.js portfolio experiments, RAG, git-history onboarding, FastAPI/Temporal APIs, and Hugging Face agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: research loops, idea harvesters, AI workflow benchmarks, portfolio experiments, CLI tools, git onboarding, FastAPI APIs, and Hugging Face agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=AI+workflow+labs+%7C+research+harnesses;Issue+idea+harvesting+%7C+git-history;Next.js+portfolio+labs+%7C+RAG;FastAPI+%7C+Temporal+%7C+Hugging+Face)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Research+loops+%7C+issue+idea+harvesting;AI+workflow+benchmarks+%7C+portfolio+labs;Git+onboarding+%7C+FastAPI+%7C+Hugging+Face+agents)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -43,11 +43,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
+| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests product ideas from old tracker issues maintainers skipped | Python |
+| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development workflows | Python |
+| [cats](https://github.com/serhii-kucherenko/cats) | Downloads lolcat listing images from icanhas.cheezburger.com in a CLI | JavaScript |
 | [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across product experiments and review oracles | TypeScript |
-| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs research loops for sturdier AI-assisted development workflows | Python |
-| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Finds product ideas in old tracker issues maintainers skipped | Python |
 | [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio concepts through scored Next.js design experiments | TypeScript |
-| [dune-expert-rag](https://github.com/serhii-kucherenko/dune-expert-rag) | Answers Dune script questions with embeddings and local Qdrant | Python |
 <!-- PROJECTS_END -->
 
 ---
@@ -94,23 +94,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Recent repos split TypeScript and Python. JavaScript still shows up in older Next.js work. SQL is API plumbing.
+**Languages:** Recent repos are mostly Python and TypeScript. JavaScript appears in small CLI and Next.js support code. SQL is API plumbing.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history UIs, habit tracking. Some motion and 3D.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, and a few motion-heavy UI passes.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. APIs, workers, idea harvesters, audit trails.
+**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, idea harvesters, CLIs, workforce APIs.
 
-**Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational app state. Vectors when retrieval earns it.
+**Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational app state first. Vectors when retrieval earns it.
 
 **Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Playwright and pytest for proof. Temporal when jobs need state.
 
 **AI/ML:**
-- OpenAI · Hugging Face · LangChain · LlamaIndex
+- Hugging Face · LlamaIndex · OpenAI · LangChain
 - RAG · embeddings · Qdrant · BM25 · context packing
 - Research harnesses · benchmark matrices · review oracles · answer checks
 - smolagents · Gradio
 
-**Domain:** AI workflow benchmarks · issue idea harvesting · Next.js portfolio labs · AI-dev research · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents · habitat modeling.
+**Domain:** AI workflow benchmarks · issue idea harvesting · research loops · CLI utilities · Next.js portfolio labs · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents.
 
 ---
 
