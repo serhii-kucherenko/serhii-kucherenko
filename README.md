@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: issue mining, research loops, AI workflow benchmarks, portfolio experiments, git onboarding, RAG apps, workforce APIs, and Hugging Face agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: AI workflow benchmarks, issue mining, research loops, small CLIs, portfolio experiments, RAG agents, git onboarding, and workforce APIs.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Issue+mining+%7C+research+loops;AI+workflow+benchmarks+%7C+portfolio+labs;Git+onboarding+%7C+RAG+%7C+Hugging+Face+agents)](https://git.io/typing-svg)
 
@@ -43,10 +43,10 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
+| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding methods across projects and review checks | TypeScript |
 | [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests product ideas from old tracker issues maintainers skipped | Python |
 | [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development workflows | Python |
-| [cats](https://github.com/serhii-kucherenko/cats) | Downloads lolcat listing images from icanhas.cheezburger.com in a CLI | JavaScript |
-| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across product experiments and review oracles | TypeScript |
+| [cats](https://github.com/serhii-kucherenko/cats) | Downloads lolcat listing images from Cheezburger through a CLI | JavaScript |
 | [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio concepts through scored Next.js design experiments | TypeScript |
 <!-- PROJECTS_END -->
 
@@ -94,23 +94,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Recent repos are mostly Python and TypeScript. JavaScript appears in small CLI and Next.js support code. SQL is API plumbing.
+**Languages:** Mostly Python and TypeScript. JavaScript shows up in small CLIs and app glue. SQL is backend plumbing.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, and a few motion-heavy UI passes.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments and git-history onboarding, with UI tests where useful.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, idea harvesters, CLIs, workforce APIs.
+**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesters, CLIs, and workforce APIs.
 
-**Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational app state first. Vectors when retrieval earns it.
+**Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs them.
 
-**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Playwright and pytest for proof. Temporal when jobs need state.
+**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Playwright, pytest, and Vitest for proof. Temporal for stateful jobs.
 
 **AI/ML:**
 - Hugging Face · LlamaIndex · OpenAI · LangChain
 - RAG · embeddings · Qdrant · BM25 · context packing
-- Research harnesses · benchmark matrices · review oracles · answer checks
+- Method labs · benchmark matrices · review oracles · answer checks
 - smolagents · Gradio
 
-**Domain:** AI workflow benchmarks · issue idea harvesting · research loops · CLI utilities · Next.js portfolio labs · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents.
+**Domain:** AI workflow benchmarks · issue idea harvesting · research loops · CLI utilities · portfolio labs · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents.
 
 ---
 
