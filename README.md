@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: AI workflow benchmarks, issue mining, research loops, small CLIs, portfolio experiments, RAG agents, git onboarding, and workforce APIs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: issue harvesting, AI method benchmarks, research loops, small CLIs, portfolio experiments, RAG agents, git onboarding, and workforce APIs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Issue+mining+%7C+research+loops;AI+workflow+benchmarks+%7C+portfolio+labs;Git+onboarding+%7C+RAG+%7C+Hugging+Face+agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+research+loops;AI+method+benchmarks+%7C+portfolio+labs;Git+onboarding+%7C+RAG+%7C+Hugging+Face+agents)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -43,8 +43,8 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
+| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests solo product ideas from old ignored tracker issues | Python |
 | [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding methods across projects and review checks | TypeScript |
-| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests product ideas from old tracker issues maintainers skipped | Python |
 | [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development workflows | Python |
 | [cats](https://github.com/serhii-kucherenko/cats) | Downloads lolcat listing images from Cheezburger through a CLI | JavaScript |
 | [orbitfolio](https://github.com/serhii-kucherenko/orbitfolio) | Tests portfolio concepts through scored Next.js design experiments | TypeScript |
@@ -98,7 +98,7 @@ $ █
 
 **Frontend:** React · Next.js · Tailwind. Portfolio experiments and git-history onboarding, with UI tests where useful.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesters, CLIs, and workforce APIs.
+**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesting, CLIs, and workforce APIs.
 
 **Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs them.
 
@@ -107,10 +107,10 @@ $ █
 **AI/ML:**
 - Hugging Face · LlamaIndex · OpenAI · LangChain
 - RAG · embeddings · Qdrant · BM25 · context packing
-- Method labs · benchmark matrices · review oracles · answer checks
+- Method labs · benchmark matrices · review checks · answer checks
 - smolagents · Gradio
 
-**Domain:** AI workflow benchmarks · issue idea harvesting · research loops · CLI utilities · portfolio labs · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents.
+**Domain:** issue harvesting · AI method benchmarks · research loops · CLI utilities · portfolio labs · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents.
 
 ---
 
