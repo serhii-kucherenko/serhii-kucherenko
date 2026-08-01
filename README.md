@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: issue harvesting, AI method benchmarks, research loops, small CLIs, portfolio experiments, RAG agents, git onboarding, and workforce APIs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: idea harvesting, AI method benchmarks, research loops, small CLIs, portfolio experiments, Dune RAG, git onboarding, workforce APIs, and Hugging Face agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+research+loops;AI+method+benchmarks+%7C+portfolio+labs;Git+onboarding+%7C+RAG+%7C+Hugging+Face+agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+AI+method+benchmarks;Research+loops+%7C+small+CLIs;Git+onboarding+%7C+RAG+agents+%7C+workforce+APIs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -94,11 +94,11 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Mostly Python and TypeScript. JavaScript shows up in small CLIs and app glue. SQL is backend plumbing.
+**Languages:** Python and TypeScript are the center. JavaScript handles small CLIs and app glue. SQL stays backend plumbing.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments and git-history onboarding, with UI tests where useful.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments and git-history onboarding. UI tests when useful.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesting, CLIs, and workforce APIs.
+**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesting, small CLIs, and workforce APIs.
 
 **Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs them.
 
@@ -110,7 +110,7 @@ $ █
 - Method labs · benchmark matrices · review checks · answer checks
 - smolagents · Gradio
 
-**Domain:** issue harvesting · AI method benchmarks · research loops · CLI utilities · portfolio labs · Dune RAG · git-history onboarding · workforce API labs · Hugging Face agents.
+**Domain:** idea harvesting · AI method benchmarks · research loops · small CLIs · portfolio labs · Dune RAG · git-history onboarding · workforce APIs · Hugging Face agents.
 
 ---
 
