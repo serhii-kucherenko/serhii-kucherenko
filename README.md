@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: idea harvesting, Figma agent memory, AI method labs, research loops, small CLIs, portfolio labs, RAG, git onboarding, workforce APIs, and HF agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: idea harvesting, Figma agent memory, AI method labs, research loops, small CLIs, portfolio experiments, RAG, git onboarding, workforce APIs, and HF agents.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+Figma+agent+memory+%7C+AI+method+labs;Research+loops+%7C+small+CLIs+%7C+portfolio+labs;Git+onboarding+%7C+RAG+agents+%7C+workforce+APIs+%7C+HF+agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+Figma+agent+memory+%7C+AI+method+labs;Research+loops+%7C+small+CLIs+%7C+portfolio+experiments;Git+onboarding+%7C+RAG+agents+%7C+workforce+APIs+%7C+HF+agents)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -110,7 +110,7 @@ $ █
 - Method labs · benchmark matrices · review checks · answer checks
 - smolagents · Gradio
 
-**Domain:** idea harvesting · Figma agent memory · AI method labs · research loops · small CLIs · portfolio labs · Dune RAG · git-history onboarding · workforce APIs · Hugging Face agents.
+**Domain:** idea harvesting · Figma agent memory · AI method labs · research loops · small CLIs · portfolio experiments · Dune RAG · git-history onboarding · workforce APIs · Hugging Face agents.
 
 ---
 
