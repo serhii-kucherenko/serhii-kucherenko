@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: idea harvesting, Figma agent memory, AI method labs, research loops, small CLIs, portfolio experiments, RAG, git onboarding, workforce APIs, and HF agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: product-idea mining, Figma agent memory, AI method labs, research loops, CLIs, portfolio experiments, RAG, git onboarding, workforce APIs, and HF agents.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+Figma+agent+memory+%7C+AI+method+labs;Research+loops+%7C+small+CLIs+%7C+portfolio+experiments;Git+onboarding+%7C+RAG+agents+%7C+workforce+APIs+%7C+HF+agents)](https://git.io/typing-svg)
 
@@ -94,11 +94,11 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Python and TypeScript are the center. JavaScript and Shell handle CLIs, scripts, and repo glue. SQL stays backend plumbing.
+**Languages:** Python and TypeScript carry most of it. JavaScript and Shell cover CLIs, scripts, and repo glue. SQL stays close to data.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, and UI tests when useful.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, and practical UI tests.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesting, CLIs, and workforce APIs.
+**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesters, CLIs, and workforce APIs.
 
 **Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs them.
 
