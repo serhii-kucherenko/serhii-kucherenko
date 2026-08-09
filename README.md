@@ -14,10 +14,34 @@
 
 ### 🎯 Goals
 
+**💻 Code**
 - [ ] 🧩 500 LeetCode problems solved
 - [ ] 🔥 100 day streak
 - [x] 📈 10,000+ total contributions
 - [ ] 📈 50,000+ total contributions by end of 2026
+
+**📚 Reading**
+- [ ] Read all Dune books (Paul Atreides saga)
+  - [x] Dune
+  - [ ] Dune Messiah
+  - [ ] Children of Dune
+- [ ] Read all Harry Potter books
+  - [ ] Harry Potter and the Philosopher's Stone
+  - [ ] Harry Potter and the Chamber of Secrets
+  - [ ] Harry Potter and the Prisoner of Azkaban
+  - [ ] Harry Potter and the Goblet of Fire
+  - [ ] Harry Potter and the Order of the Phoenix
+  - [ ] Harry Potter and the Half-Blood Prince
+  - [ ] Harry Potter and the Deathly Hallows
+
+**✈️ Travel**
+- [ ] New Zealand
+- [ ] Australia
+- [ ] England
+- [x] Japan
+- [x] France
+- [x] New York
+
 
 <!-- LIVE_STATS:START -->
 **Live contribution total:** **13,603** (last refreshed 2026-08-09 UTC)
