@@ -16,7 +16,6 @@
 
 **💻 Code**
 - [ ] 🧩 500 LeetCode problems solved
-- [ ] 🔥 100 day streak
 - [x] 📈 10,000+ total contributions
 - [ ] 📈 50,000+ total contributions by end of 2026
 
