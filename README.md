@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: idea harvesting, Figma agent memory, AI method labs, research loops, small CLIs, portfolio experiments, RAG, git onboarding, workforce APIs, and HF agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: idea harvesters, AI method benchmarks, Figma agent memory, research harnesses, small CLIs, portfolio experiments, RAG, git onboarding, workforce APIs, and HF agents.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+Figma+agent+memory+%7C+AI+method+labs;Research+loops+%7C+small+CLIs+%7C+portfolio+experiments;Git+onboarding+%7C+RAG+agents+%7C+workforce+APIs+%7C+HF+agents)](https://git.io/typing-svg)
 
@@ -51,7 +51,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/serhii-kucherenko?theme=dark&hide_border=true&ext=contest" />
@@ -67,8 +67,8 @@
 | Project | What it does | Language |
 |---------|-------------|----------|
 | [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests solo product ideas from old ignored tracker issues | Python |
-| [figma-agent-memory](https://github.com/serhii-kucherenko/figma-agent-memory) | Keeps Figma agent memory setup in small shell scripts | Shell |
 | [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding methods across projects and review checks | TypeScript |
+| [figma-agent-memory](https://github.com/serhii-kucherenko/figma-agent-memory) | Keeps Figma agent memory setup in small shell scripts | Shell |
 | [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development workflows | Python |
 | [cats](https://github.com/serhii-kucherenko/cats) | Downloads lolcat listing images from Cheezburger through a CLI | JavaScript |
 <!-- PROJECTS_END -->
@@ -115,13 +115,13 @@ $ █
 
 ### 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,js,bash,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Python and TypeScript are the center. JavaScript and Shell handle CLIs, scripts, and repo glue. SQL stays backend plumbing.
+**Languages:** Python and TypeScript do most of the work. JavaScript and Shell cover CLIs, scripts, and repo glue. SQL stays backend plumbing.
 
 **Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, and UI tests when useful.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesting, CLIs, and workforce APIs.
+**Backend:** FastAPI · Temporal · Node.js tooling. Research harnesses, issue harvesters, CLIs, and workforce APIs.
 
 **Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs them.
 
@@ -133,7 +133,7 @@ $ █
 - Method labs · benchmark matrices · review checks · answer checks
 - smolagents · Gradio
 
-**Domain:** idea harvesting · Figma agent memory · AI method labs · research loops · small CLIs · portfolio experiments · Dune RAG · git-history onboarding · workforce APIs · Hugging Face agents.
+**Domain:** idea harvesting · AI method benchmarks · Figma agent memory · research harnesses · small CLIs · portfolio experiments · Dune RAG · git-history onboarding · workforce APIs · Hugging Face agents.
 
 ---
 
