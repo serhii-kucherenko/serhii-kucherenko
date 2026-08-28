@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: idea harvesting, Figma agent memory, AI method labs, research loops, small CLIs, portfolio experiments, RAG, git onboarding, workforce APIs, and HF agents.</em></p>
+<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, AI build loops, idea harvesting, method labs, Figma agent memory, research loops, small CLIs, portfolio tests, RAG, and git onboarding.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Idea+harvesting+%7C+Figma+agent+memory+%7C+AI+method+labs;Research+loops+%7C+small+CLIs+%7C+portfolio+experiments;Git+onboarding+%7C+RAG+agents+%7C+workforce+APIs+%7C+HF+agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+AI+build+loops+%7C+idea+harvesting;AI+method+labs+%7C+Figma+agent+memory+%7C+research+loops;Small+CLIs+%7C+portfolio+experiments+%7C+RAG+%7C+git+onboarding)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -66,11 +66,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests solo product ideas from old ignored tracker issues | Python |
-| [figma-agent-memory](https://github.com/serhii-kucherenko/figma-agent-memory) | Keeps Figma agent memory setup in small shell scripts | Shell |
-| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding methods across projects and review checks | TypeScript |
-| [dev-scout](https://github.com/serhii-kucherenko/dev-scout) | Runs weekly research loops for sturdier AI-assisted development workflows | Python |
-| [cats](https://github.com/serhii-kucherenko/cats) | Downloads lolcat listing images from Cheezburger through a CLI | JavaScript |
+| [loupe](https://github.com/serhii-kucherenko/loupe) | Captures app feedback with element screenshots and API-call context | Swift |
+| [autopilot](https://github.com/serhii-kucherenko/autopilot) | Turns product ideas into AI-built staging changes for review | TypeScript |
+| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests product ideas from old high-signal tracker issues | Python |
+| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across real product experiments | TypeScript |
+| [figma-agent-memory](https://github.com/serhii-kucherenko/figma-agent-memory) | Gives Figma AI agents reusable memory through text snippets | Shell |
 <!-- PROJECTS_END -->
 
 ---
@@ -115,25 +115,25 @@ $ █
 
 ### 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** Python and TypeScript are the center. JavaScript and Shell handle CLIs, scripts, and repo glue. SQL stays backend plumbing.
+**Languages:** TypeScript and Python are the center. Swift/SwiftUI is active for app SDK work. JavaScript and Shell handle CLIs and repo glue.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, and UI tests when useful.
+**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, annotation flows, and UI tests.
 
-**Backend:** FastAPI · Temporal · Node.js tooling. Research loops, issue harvesting, CLIs, and workforce APIs.
+**Backend:** Node.js tooling, Python scripts, FastAPI, and Temporal. Research loops, issue harvesting, CLIs, and AI build-loop glue.
 
-**Databases:** PostgreSQL · SQLAlchemy · Qdrant. Relational state first; vectors when retrieval needs them.
+**Databases:** Qdrant for RAG. PostgreSQL and SQLAlchemy when relational state is the job.
 
-**Infra:** Vercel · Docker · CI/CD · pnpm/Turbo · uv. Shell scripts for repo setup. Playwright, pytest, and Vitest for proof.
+**Infra:** Vercel · CI/CD · pnpm/Turbo · uv. Docker when local services need it. Playwright, pytest, and Vitest for proof.
 
 **AI/ML:**
-- Hugging Face · LlamaIndex · OpenAI · LangChain
-- RAG · embeddings · Qdrant · BM25 · context packing
-- Method labs · benchmark matrices · review checks · answer checks
-- smolagents · Gradio
+- OpenAI · LangChain · Qdrant
+- RAG · embeddings · context packing
+- AI agents · method labs · benchmark matrices · review checks
+- Figma/Cursor workflow memory · autonomous build-loop prompts
 
-**Domain:** idea harvesting · Figma agent memory · AI method labs · research loops · small CLIs · portfolio experiments · Dune RAG · git-history onboarding · workforce APIs · Hugging Face agents.
+**Domain:** Swift annotation SDKs · AI build loops · idea harvesting · AI method labs · Figma agent memory · research loops · small CLIs · portfolio experiments · Dune RAG · git-history onboarding.
 
 ---
 
