@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, AI build loops, idea harvesting, method labs, Figma agent memory, research loops, small CLIs, portfolio tests, RAG, and git onboarding.</em></p>
+<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, AI build loops, idea harvesting, method labs, Figma agent memory, dev scouting, small CLIs, portfolio experiments, Dune RAG, and git onboarding.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+AI+build+loops+%7C+idea+harvesting;AI+method+labs+%7C+Figma+agent+memory+%7C+research+loops;Small+CLIs+%7C+portfolio+experiments+%7C+RAG+%7C+git+onboarding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+AI+build+loops+%7C+idea+harvesting;AI+method+labs+%7C+Figma+agent+memory+%7C+dev+scouting;Small+CLIs+%7C+portfolio+experiments+%7C+Dune+RAG+%7C+git+onboarding)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -115,15 +115,15 @@ $ █
 
 ### 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,bash,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
 **Languages:** TypeScript and Python are the center. Swift/SwiftUI is active for app SDK work. JavaScript and Shell handle CLIs and repo glue.
 
 **Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, annotation flows, and UI tests.
 
-**Backend:** Node.js tooling, Python scripts, FastAPI, and Temporal. Research loops, issue harvesting, CLIs, and AI build-loop glue.
+**Backend:** Node.js tooling and Python scripts. Dev scouting, issue harvesting, CLIs, and AI build-loop glue.
 
-**Databases:** Qdrant for RAG. PostgreSQL and SQLAlchemy when relational state is the job.
+**Databases:** Qdrant for RAG. PostgreSQL when relational state is the job.
 
 **Infra:** Vercel · CI/CD · pnpm/Turbo · uv. Docker when local services need it. Playwright, pytest, and Vitest for proof.
 
@@ -133,7 +133,7 @@ $ █
 - AI agents · method labs · benchmark matrices · review checks
 - Figma/Cursor workflow memory · autonomous build-loop prompts
 
-**Domain:** Swift annotation SDKs · AI build loops · idea harvesting · AI method labs · Figma agent memory · research loops · small CLIs · portfolio experiments · Dune RAG · git-history onboarding.
+**Domain:** Swift annotation SDKs · AI build loops · idea harvesting · AI method labs · Figma agent memory · dev scouting · small CLIs · portfolio experiments · Dune RAG · git-history onboarding.
 
 ---
 
