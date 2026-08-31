@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, AI build loops, idea harvesting, AI method labs, Figma agent memory, dev scouting, tiny CLIs, portfolio experiments, Dune RAG, and git-history onboarding.</em></p>
+<p><em>Founding full-stack engineer. Recent work is Swift annotation SDKs, AI build loops, issue harvesting, workflow benchmarks, Figma memory, research scouts, tiny CLIs, portfolio variants, Dune RAG, and git-history onboarding.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+AI+build+loops+%7C+idea+harvesting;AI+method+labs+%7C+Figma+agent+memory+%7C+dev+scouting;Small+CLIs+%7C+portfolio+experiments+%7C+Dune+RAG+%7C+git+onboarding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+AI+build+loops+%7C+issue+harvesting;AI+workflow+benchmarks+%7C+Figma+agent+memory+%7C+dev+research;Tiny+CLIs+%7C+portfolio+variants+%7C+Dune+RAG+%7C+git+onboarding)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -66,11 +66,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
-| [loupe](https://github.com/serhii-kucherenko/loupe) | Captures app feedback with element screenshots and API-call context | Swift |
-| [autopilot](https://github.com/serhii-kucherenko/autopilot) | Turns product ideas into AI-built staging changes for review | TypeScript |
+| [loupe](https://github.com/serhii-kucherenko/loupe) | Captures app feedback with screenshots, comments, and API context | Swift |
+| [autopilot](https://github.com/serhii-kucherenko/autopilot) | Maps AI build loops from idea to staging review | TypeScript |
 | [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests product ideas from old high-signal tracker issues | Python |
 | [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across real product experiments | TypeScript |
-| [figma-agent-memory](https://github.com/serhii-kucherenko/figma-agent-memory) | Gives Figma AI agents reusable memory through text snippets | Shell |
+| [figma-agent-memory](https://github.com/serhii-kucherenko/figma-agent-memory) | Gives Figma agents reusable memory through text snippets | Shell |
 <!-- PROJECTS_END -->
 
 ---
@@ -117,23 +117,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,bash,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** TypeScript and Python carry most of it. Swift/SwiftUI is active for SDK work. JavaScript and Shell handle small CLIs and repo glue.
+**Languages:** TypeScript and Python carry most of it. Swift is active for Loupe. JavaScript and Shell cover small CLIs and repo glue.
 
-**Frontend:** React · Next.js · Tailwind. Portfolio experiments, git-history onboarding, annotation flows, and UI proof.
+**Frontend:** React · Next.js · Tailwind for portfolio experiments and local dashboards. SwiftUI for annotation flows.
 
-**Backend:** Node.js tooling and Python scripts for scouting, issue harvesting, CLIs, and AI build-loop glue.
+**Backend:** Node.js tooling and Python scripts for scouting, issue harvesting, CLIs, and AI build-loop glue. Typer, Pydantic, httpx, and scrapers when a script is enough.
 
-**Databases:** Qdrant for RAG. PostgreSQL when relational state is the job.
+**Databases:** Qdrant for the Dune RAG experiment. PostgreSQL is still a tool, not the recent center.
 
-**Infra:** Vercel · pnpm/Turbo · uv. Docker when local services need it. Playwright, pytest, and Vitest for proof.
+**Infra:** Vercel · pnpm/Turbo · uv. Docker only when local services need it. Playwright, pytest, and Vitest for proof.
 
 **AI/ML:**
 - OpenAI · LangChain · Qdrant
 - RAG · embeddings · context packing
-- AI agents · method labs · benchmark matrices · review checks
-- Figma/Cursor workflow memory · autonomous build-loop prompts
+- AI agents · build loops · workflow benchmarks · review checks
+- Figma/Cursor workflow memory · prompt harnesses
 
-**Domain:** Swift annotation SDKs · AI build loops · idea harvesting · AI method labs · Figma agent memory · dev scouting · tiny CLIs · portfolio experiments · Dune RAG · git-history onboarding.
+**Domain:** Swift annotation SDKs · AI build loops · issue harvesting · workflow benchmarks · Figma agent memory · dev research · tiny CLIs · portfolio variants · Dune RAG · git-history onboarding.
 
 ---
 
