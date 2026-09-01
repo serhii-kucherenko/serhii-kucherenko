@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work is Swift annotation SDKs, AI build loops, issue harvesting, workflow benchmarks, Figma memory, research scouts, tiny CLIs, portfolio variants, Dune RAG, and git-history onboarding.</em></p>
+<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, AI build loops, issue harvesting, workflow benchmarks, Figma memory, dev research, tiny CLIs, portfolio variants, Dune RAG, and git-history onboarding.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+AI+build+loops+%7C+issue+harvesting;AI+workflow+benchmarks+%7C+Figma+agent+memory+%7C+dev+research;Tiny+CLIs+%7C+portfolio+variants+%7C+Dune+RAG+%7C+git+onboarding)](https://git.io/typing-svg)
 
@@ -117,13 +117,13 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,bash,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
 
-**Languages:** TypeScript and Python carry most of it. Swift is active for Loupe. JavaScript and Shell cover small CLIs and repo glue.
+**Languages:** TypeScript, Python, and Swift do most of it. JavaScript and Shell cover small CLIs and repo glue.
 
-**Frontend:** React · Next.js · Tailwind for portfolio experiments and local dashboards. SwiftUI for annotation flows.
+**Frontend:** React · Next.js · Tailwind for portfolio experiments and dashboards. SwiftUI for annotation flows.
 
-**Backend:** Node.js tooling and Python scripts for scouting, issue harvesting, CLIs, and AI build-loop glue. Typer, Pydantic, httpx, and scrapers when a script is enough.
+**Backend:** Node.js tooling and Python scripts for scouts, issue harvesting, CLIs, and AI build-loop glue. Typer, Pydantic, httpx, and scrapers when a script is enough.
 
-**Databases:** Qdrant for the Dune RAG experiment. PostgreSQL is still a tool, not the recent center.
+**Databases:** Qdrant for Dune RAG. PostgreSQL is around, not the recent center.
 
 **Infra:** Vercel · pnpm/Turbo · uv. Docker only when local services need it. Playwright, pytest, and Vitest for proof.
 
