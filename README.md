@@ -43,12 +43,12 @@
 
 
 <!-- LIVE_STATS:START -->
-**Live contribution total:** **14,900** (last refreshed 2026-09-03 UTC)
+**Live contribution total:** **14,901** (last refreshed 2026-09-03 UTC)
 <!-- LIVE_STATS:END -->
 
 <!-- CONTRIBUTION_CHART:START -->
 <p align="center">
-  <img src="./assets/contributions-by-year.svg" alt="Yearly GitHub contribution volume chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serhii-kucherenko&theme=github_dark" alt="Live GitHub contribution activity chart" />
 </p>
 <!-- CONTRIBUTION_CHART:END -->
 
@@ -56,6 +56,10 @@
 
 ### 📊 Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serhii-kucherenko&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serhii-kucherenko&theme=github_dark&utcOffset=-7" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
 </p>
