@@ -125,7 +125,7 @@ $ █
 
 ### 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,bash,figma,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,bash,figma,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm,npm&perline=7)](https://skillicons.dev)
 
 **Languages:** TypeScript, Python, Swift, and JavaScript are the current mix. Shell handles repo glue when it earns the file.
 
@@ -135,7 +135,7 @@ $ █
 
 **Databases:** Qdrant for Dune RAG. PostgreSQL shows up, not as the recent center.
 
-**Infra:** Vercel · pnpm/Turbo · uv. Docker only when local services need it. Playwright, pytest, and Vitest for proof.
+**Infra:** Vercel · npm/pnpm · uv. Docker only when local services need it. Playwright, pytest, and Vitest for proof.
 
 **AI/ML:**
 - OpenAI · LangChain · Qdrant
