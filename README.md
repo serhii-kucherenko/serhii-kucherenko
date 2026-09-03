@@ -43,8 +43,14 @@
 
 
 <!-- LIVE_STATS:START -->
-**Live contribution total:** **14,894** (last refreshed 2026-09-02 UTC)
+**Live contribution total:** **14,899** (last refreshed 2026-09-03 UTC)
 <!-- LIVE_STATS:END -->
+
+<!-- CONTRIBUTION_CHART:START -->
+<p align="center">
+  <img src="./assets/contributions-by-year.svg" alt="Yearly GitHub contribution volume chart" />
+</p>
+<!-- CONTRIBUTION_CHART:END -->
 
 ---
 
