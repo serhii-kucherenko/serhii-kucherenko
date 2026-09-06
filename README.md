@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, Figma-to-Expo tokens, AI build loops, issue harvesting, workflow benchmarks, Figma agent memory, research harnesses, tiny CLIs, portfolio variants, and Dune RAG.</em></p>
+<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, Figma-to-Expo tokens, AI build loops, issue harvesting, workflow benchmarks, agent memory, research harnesses, small CLIs, portfolio variants, and Dune RAG.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+Figma-to-Expo+tokens+%7C+AI+build+loops;Issue+harvesting+%7C+workflow+benchmarks+%7C+research+harnesses;Tiny+CLIs+%7C+portfolio+variants+%7C+Dune+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+Figma-to-Expo+tokens+%7C+AI+build+loops;Issue+harvesting+%7C+workflow+benchmarks+%7C+agent+memory;Research+harnesses+%7C+small+CLIs+%7C+Dune+RAG)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -131,7 +131,7 @@ $ █
 
 **Frontend:** React · Next.js · Tailwind for portfolio and dashboard work. Expo, React Native, and NativeWind for token-sync experiments. SwiftUI for annotation flows.
 
-**Backend:** Node.js tooling and Python scripts for scouts, issue harvesting, CLIs, and AI build-loop glue. Typer, Pydantic, httpx, and Cheerio when a script is enough.
+**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue harvesting, small CLIs, and Dune RAG. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
 **Databases:** Qdrant for Dune RAG. PostgreSQL shows up, not as the recent center.
 
@@ -143,7 +143,7 @@ $ █
 - AI agents · build loops · workflow benchmarks · review checks
 - Figma/Cursor workflow memory · prompt harnesses
 
-**Domain:** Swift annotation SDKs · Figma-to-Expo tokens · AI build loops · issue harvesting · workflow benchmarks · Figma agent memory · research harnesses · tiny CLIs · portfolio variants · Dune RAG.
+**Domain:** Swift annotation SDKs · Figma-to-Expo tokens · AI build loops · issue harvesting · workflow benchmarks · agent memory · research harnesses · small CLIs · portfolio variants · Dune RAG.
 
 ---
 
