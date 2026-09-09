@@ -33,14 +33,47 @@ jobs:
           GITHUB_LOGIN: serhii-kucherenko
         run: python3 scripts/update-live-stats.py
 
+      - name: Generate profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: serhii-kucherenko
+          UTC_OFFSET: -7
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: Publish profile cards
+        run: |
+          mkdir -p assets/github-cards
+          cp profile-summary-card-output/github_dark/0-profile-details.svg assets/github-cards/profile-details.svg
+          cp profile-summary-card-output/github_dark/3-stats.svg assets/github-cards/stats.svg
+          cp profile-summary-card-output/github_dark/4-productive-time.svg assets/github-cards/productive-time.svg
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          email_icon = (
+              "M1.75 2A1.75 1.75 0 000 3.75v.736a.75.75 0 000 .027v7.737C0 13.216.784 14 1.75 14h12.5A1.75 1.75 0 0016 12.25v-8.5A1.75 1.75 0 0014.25 2H1.75zM14.5 4.07v-.32a.25.25 0 00-.25-.25H1.75a.25.25 0 00-.25.25v.32L8 7.88l6.5-3.81zm-13 1.74v6.441c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V5.809L8.38 9.397a.75.75 0 01-.76 0L1.5 5.809z"
+          )
+          location_icon = (
+              "M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z"
+          )
+          path = Path("assets/github-cards/profile-details.svg")
+          text = path.read_text()
+          text = re.sub(r"[\w.+-]+@[\w.-]+\.\w+", "Vancouver", text)
+          text = text.replace(email_icon, location_icon)
+          path.write_text(text)
+          PY
+
       - name: Commit if changed
         run: |
-          if git diff --quiet README.md; then
-            echo "No README changes"
+          git add README.md assets/github-cards
+          if git diff --cached --quiet; then
+            echo "No README or card changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
           git commit -m "chore: refresh live contribution total [skip ci]"
           git push
