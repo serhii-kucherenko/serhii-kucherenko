@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: Swift annotation SDKs, Figma-to-Expo tokens, AI build loops, issue harvesting, workflow benchmarks, agent memory, research harnesses, small CLIs, motion-heavy portfolio variants, and Dune RAG.</em></p>
+<p><em>Founding full-stack engineer. Recent work: app annotation SDKs, design-token PRs, AI build loops, issue harvesting, workflow benchmarks, repo memory, research harnesses, small CLIs, portfolio experiments, and Dune RAG.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+Figma-to-Expo+tokens+%7C+AI+build+loops;Issue+harvesting+%7C+workflow+benchmarks+%7C+agent+memory;Research+harnesses+%7C+small+CLIs+%7C+Dune+RAG)](https://git.io/typing-svg)
 
@@ -127,23 +127,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,bash,figma,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm,npm&perline=7)](https://skillicons.dev)
 
-**Languages:** TypeScript, Python, Swift, and JavaScript are the current mix. Shell handles repo glue when it earns the file.
+**Languages:** TypeScript, Python, Swift, JavaScript, and shell. Mostly product tools, agents, CLIs, and glue.
 
-**Frontend:** React · Next.js · Tailwind for portfolio and dashboard work, with Three.js when the page needs motion. Expo, React Native, and NativeWind for token-sync experiments. SwiftUI for annotation flows.
+**Frontend:** React · Next.js · Tailwind for portfolio and dashboard work. Expo, React Native, and NativeWind for token-sync experiments. SwiftUI for annotation surfaces.
 
-**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue harvesting, small CLIs, and Dune RAG. Typer, Pydantic, httpx, and Cheerio when a script is enough.
+**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue harvesting, CLIs, and Dune RAG. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
-**Databases:** Qdrant for Dune RAG. PostgreSQL shows up, not as the recent center.
+**Databases:** Qdrant for Dune RAG. PostgreSQL appears when the app needs it.
 
-**Infra:** Vercel · npm/pnpm. Docker only when local services need it. Playwright, pytest, and node --test for proof.
+**Infra:** Vercel · npm/pnpm. Docker when local services need it. Playwright, pytest, and node --test for proof.
 
 **AI/ML:**
 - OpenAI · LangChain · Qdrant
 - RAG · embeddings · context packing
 - AI agents · build loops · workflow benchmarks · review checks
-- Figma/Cursor workflow memory · prompt harnesses
+- Figma and Cursor workflow memory · prompt harnesses
 
-**Domain:** Swift annotation SDKs · Figma-to-Expo tokens · AI build loops · issue harvesting · workflow benchmarks · agent memory · research harnesses · small CLIs · motion-heavy portfolio variants · Dune RAG.
+**Domain:** Annotation SDKs · design-token PRs · AI build loops · issue harvesting · workflow benchmarks · repo memory · research harnesses · small CLIs · portfolio experiments · Dune RAG.
 
 ---
 
