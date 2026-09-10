@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: app annotation SDKs, design-token PRs, AI build loops, issue harvesting, workflow benchmarks, repo memory, research harnesses, small CLIs, portfolio experiments, and Dune RAG.</em></p>
+<p><em>Founding full-stack engineer. Recent work: annotation SDKs, Figma-token PRs, AI build loops, issue harvesting, workflow benchmarks, agent memory, research harnesses, small CLIs, portfolio experiments, and Dune RAG.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+Figma-to-Expo+tokens+%7C+AI+build+loops;Issue+harvesting+%7C+workflow+benchmarks+%7C+agent+memory;Research+harnesses+%7C+small+CLIs+%7C+Dune+RAG)](https://git.io/typing-svg)
 
@@ -77,7 +77,7 @@
 | Project | What it does | Language |
 |---------|-------------|----------|
 | [loupe](https://github.com/serhii-kucherenko/loupe) | Captures app feedback with screenshots, comments, and API context | Swift |
-| [expo-figma-tokens](https://github.com/serhii-kucherenko/expo-figma-tokens) | Turns Figma design tokens into Expo app pull requests | JavaScript |
+| [expo-figma-tokens](https://github.com/serhii-kucherenko/expo-figma-tokens) | Turns Figma tokens into Expo app pull requests | JavaScript |
 | [autopilot](https://github.com/serhii-kucherenko/autopilot) | Runs AI build loops from prompts to staging reviews | TypeScript |
 | [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests product ideas from old ignored tracker issues | Python |
 | [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across real product experiments | TypeScript |
@@ -129,13 +129,13 @@ $ █
 
 **Languages:** TypeScript, Python, Swift, JavaScript, and shell. Mostly product tools, agents, CLIs, and glue.
 
-**Frontend:** React · Next.js · Tailwind for portfolio and dashboard work. Expo, React Native, and NativeWind for token-sync experiments. SwiftUI for annotation surfaces.
+**Frontend:** React · Next.js · Tailwind for portfolio and dashboard work. Expo, React Native, and NativeWind for token-sync experiments. SwiftUI for annotation tools.
 
 **Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue harvesting, CLIs, and Dune RAG. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
 **Databases:** Qdrant for Dune RAG. PostgreSQL appears when the app needs it.
 
-**Infra:** Vercel · npm/pnpm. Docker when local services need it. Playwright, pytest, and node --test for proof.
+**Infra:** Vercel · npm/pnpm. Docker when local services need it. Playwright, pytest, and node --test for checks.
 
 **AI/ML:**
 - OpenAI · LangChain · Qdrant
@@ -143,7 +143,7 @@ $ █
 - AI agents · build loops · workflow benchmarks · review checks
 - Figma and Cursor workflow memory · prompt harnesses
 
-**Domain:** Annotation SDKs · design-token PRs · AI build loops · issue harvesting · workflow benchmarks · repo memory · research harnesses · small CLIs · portfolio experiments · Dune RAG.
+**Domain:** Annotation SDKs · Figma-token PRs · AI build loops · issue harvesting · workflow benchmarks · agent memory · research harnesses · small CLIs · portfolio experiments · Dune RAG.
 
 ---
 
