@@ -48,7 +48,7 @@
 
 <!-- CONTRIBUTION_CHART:START -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serhii-kucherenko&theme=github_dark" alt="Live GitHub contribution activity chart" />
+  <img src="./assets/github-cards/profile-details.svg" alt="Live GitHub contribution activity chart" />
 </p>
 <!-- CONTRIBUTION_CHART:END -->
 
@@ -57,8 +57,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serhii-kucherenko&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serhii-kucherenko&theme=github_dark&utcOffset=-7" />
+  <img src="./assets/github-cards/stats.svg" alt="GitHub stats" />
+  <img src="./assets/github-cards/productive-time.svg" alt="Commit activity by hour" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=serhii-kucherenko&theme=github-dark&hide_border=true" />
