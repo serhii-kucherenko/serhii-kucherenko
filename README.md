@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: annotation SDKs, Figma-token PRs, AI build loops, issue harvesting, workflow benchmarks, agent memory, research harnesses, small CLIs, portfolio experiments, and Dune RAG.</em></p>
+<p><em>Founding full-stack engineer. Recent work: annotation SDKs, Figma token sync, AI build loops, issue harvesting, workflow benchmarks, agent memory, research harnesses, tiny CLIs, portfolio experiments, and Dune RAG.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+Figma-to-Expo+tokens+%7C+AI+build+loops;Issue+harvesting+%7C+workflow+benchmarks+%7C+agent+memory;Research+harnesses+%7C+small+CLIs+%7C+Dune+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+Figma+token+sync+%7C+AI+build+loops;Issue+harvesting+%7C+workflow+benchmarks+%7C+agent+memory;Research+harnesses+%7C+tiny+CLIs+%7C+Dune+RAG)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -129,7 +129,7 @@ $ █
 
 **Languages:** TypeScript, Python, Swift, JavaScript, and shell. Mostly product tools, agents, CLIs, and glue.
 
-**Frontend:** React · Next.js · Tailwind for portfolio and dashboard work. Expo, React Native, and NativeWind for token-sync experiments. SwiftUI for annotation tools.
+**Frontend:** React · Next.js · Tailwind for portfolio and dashboard work. Expo, React Native, and NativeWind for Figma token sync. SwiftUI for annotation tools.
 
 **Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue harvesting, CLIs, and Dune RAG. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
@@ -143,7 +143,7 @@ $ █
 - AI agents · build loops · workflow benchmarks · review checks
 - Figma and Cursor workflow memory · prompt harnesses
 
-**Domain:** Annotation SDKs · Figma-token PRs · AI build loops · issue harvesting · workflow benchmarks · agent memory · research harnesses · small CLIs · portfolio experiments · Dune RAG.
+**Domain:** Annotation SDKs · Figma token sync · AI build loops · issue harvesting · workflow benchmarks · agent memory · research harnesses · tiny CLIs · portfolio experiments · Dune RAG.
 
 ---
 
