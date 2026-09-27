@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: annotation SDKs, Figma token sync, AI build loops, issue harvesting, workflow benchmarks, agent memory, research harnesses, tiny CLIs, portfolio experiments, and Dune RAG.</em></p>
+<p><em>Founding full-stack engineer. Recent work: agent memory, LAN tools, annotation SDKs, Figma token sync, AI build loops, issue harvesting, workflow benchmarks, research harnesses, and tiny CLIs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Swift+annotation+SDKs+%7C+Figma+token+sync+%7C+AI+build+loops;Issue+harvesting+%7C+workflow+benchmarks+%7C+agent+memory;Research+harnesses+%7C+tiny+CLIs+%7C+Dune+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Agent+memory+%7C+LAN+tools+%7C+annotation+SDKs;Figma+token+sync+%7C+AI+build+loops+%7C+issue+harvesting;Workflow+benchmarks+%7C+research+harnesses+%7C+tiny+CLIs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -76,11 +76,11 @@
 <!-- PROJECTS_START -->
 | Project | What it does | Language |
 |---------|-------------|----------|
+| [agent-memory-system](https://github.com/serhii-kucherenko/agent-memory-system) | Shows agents how to keep memory across tool sessions | Python |
+| [hop](https://github.com/serhii-kucherenko/hop) | Shares one keyboard and mouse across local machines | Rust |
 | [loupe](https://github.com/serhii-kucherenko/loupe) | Captures app feedback with screenshots, comments, and API context | Swift |
-| [expo-figma-tokens](https://github.com/serhii-kucherenko/expo-figma-tokens) | Turns Figma tokens into Expo app pull requests | JavaScript |
+| [expo-figma-tokens](https://github.com/serhii-kucherenko/expo-figma-tokens) | Turns Figma design tokens into Expo app pull requests | JavaScript |
 | [autopilot](https://github.com/serhii-kucherenko/autopilot) | Runs AI build loops from prompts to staging reviews | TypeScript |
-| [idea-harvester](https://github.com/serhii-kucherenko/idea-harvester) | Harvests product ideas from old ignored tracker issues | Python |
-| [ai-method-lab](https://github.com/serhii-kucherenko/ai-method-lab) | Benchmarks AI coding workflows across real product experiments | TypeScript |
 <!-- PROJECTS_END -->
 
 ---
@@ -127,23 +127,23 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,swift,js,git,bash,figma,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm,npm&perline=7)](https://skillicons.dev)
 
-**Languages:** TypeScript, Python, Swift, JavaScript, and shell. Mostly product tools, agents, CLIs, and glue.
+**Languages:** TypeScript, Python, Swift, JavaScript, Rust, and shell. Mostly product tools, agents, CLIs, SDKs, and glue.
 
 **Frontend:** React · Next.js · Tailwind for portfolio and dashboard work. Expo, React Native, and NativeWind for Figma token sync. SwiftUI for annotation tools.
 
-**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue harvesting, CLIs, and Dune RAG. Typer, Pydantic, httpx, and Cheerio when a script is enough.
+**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue harvesting, and CLIs. Rust when the local utility wants to be native. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
-**Databases:** Qdrant for Dune RAG. PostgreSQL appears when the app needs it.
+**Databases:** Light lately. Qdrant for RAG experiments; PostgreSQL when the app needs it.
 
 **Infra:** Vercel · npm/pnpm. Docker when local services need it. Playwright, pytest, and node --test for checks.
 
 **AI/ML:**
-- OpenAI · LangChain · Qdrant
-- RAG · embeddings · context packing
+- OpenAI · LangChain · LangGraph · Qdrant
+- RAG · embeddings · context packing · persistent agent memory
 - AI agents · build loops · workflow benchmarks · review checks
 - Figma and Cursor workflow memory · prompt harnesses
 
-**Domain:** Annotation SDKs · Figma token sync · AI build loops · issue harvesting · workflow benchmarks · agent memory · research harnesses · tiny CLIs · portfolio experiments · Dune RAG.
+**Domain:** Agent memory · LAN tools · annotation SDKs · Figma token sync · AI build loops · issue harvesting · workflow benchmarks · research harnesses · tiny CLIs.
 
 ---
 
