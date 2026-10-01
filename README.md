@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: persistent agent memory, LAN input sharing, app annotation SDKs, Figma token PRs, AI build loops, issue mining, workflow benchmarks, research harnesses, and small CLIs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: persistent agent memory, LAN input sharing, annotation SDKs, Figma token PRs, AI build loops, issue mining, workflow benchmarks, research harnesses, and tiny CLIs.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Agent+memory+%7C+LAN+tools+%7C+annotation+SDKs;Figma+token+PRs+%7C+AI+build+loops+%7C+issue+mining;Workflow+benchmarks+%7C+research+harnesses+%7C+tiny+CLIs)](https://git.io/typing-svg)
 
@@ -138,10 +138,10 @@ $ █
 **Infra:** Vercel · npm/pnpm. Docker when local services need it. Playwright, pytest, and node --test for checks.
 
 **AI/ML:**
-- OpenAI · LangChain · LangGraph · Qdrant
+- Gemini · LangGraph · Qdrant
 - RAG · embeddings · context packing · persistent agent memory
 - AI agents · build loops · workflow benchmarks · review checks
-- Figma and Cursor workflow memory · prompt harnesses
+- Figma agent memory · prompt harnesses
 
 **Domain:** Persistent agent memory · LAN input sharing · app annotation SDKs · Figma token PRs · AI build loops · issue mining · workflow benchmarks · research harnesses · small CLIs.
 
