@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: persistent agent memory, LAN input sharing, annotation SDKs, Figma token PRs, AI build loops, issue mining, workflow benchmarks, research harnesses, and tiny CLIs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: agent memory, LAN input sharing, annotation SDKs, Figma token sync, AI build loops, issue mining, workflow labs, and tiny CLIs.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Agent+memory+%7C+LAN+tools+%7C+annotation+SDKs;Figma+token+PRs+%7C+AI+build+loops+%7C+issue+mining;Workflow+benchmarks+%7C+research+harnesses+%7C+tiny+CLIs)](https://git.io/typing-svg)
 
@@ -127,15 +127,15 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,swift,rust,js,git,bash,figma,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm,npm&perline=7)](https://skillicons.dev)
 
-**Languages:** TypeScript, Python, Swift, JavaScript, Rust, and shell. Recent repos are agents, local utilities, annotation SDKs, benchmark harnesses, and small CLIs.
+**Languages:** TypeScript, Python, Swift, Rust, JavaScript, and shell. Recent repos are agents, local utilities, annotation SDKs, workflow labs, and small CLIs.
 
 **Frontend:** React · Next.js · Tailwind for dashboards and portfolio work. Expo, React Native, and NativeWind for token demos. SwiftUI for annotation tools.
 
-**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue mining, and CLIs. Rust when the local utility wants to be native. Typer, Pydantic, httpx, and Cheerio when a script is enough.
+**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue mining, and CLIs. Rust for LAN tooling. Swift packages for macOS and iPadOS annotation. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
-**Databases:** Light lately. Qdrant for RAG experiments; PostgreSQL when the app needs it.
+**Databases:** Light lately. Qdrant for agent-memory demos; PostgreSQL when the app needs it.
 
-**Infra:** Vercel · npm/pnpm. Docker when local services need it. Playwright, pytest, and node --test for checks.
+**Infra:** Vercel · npm/pnpm · GitHub automation. Docker when local services need it. Playwright, pytest, and node --test for checks.
 
 **AI/ML:**
 - Gemini · LangGraph · Qdrant
