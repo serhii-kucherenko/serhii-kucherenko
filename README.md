@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Recent work: agent memory, LAN input sharing, annotation SDKs, Figma token sync, AI build loops, issue mining, workflow labs, and tiny CLIs.</em></p>
+<p><em>Founding full-stack engineer. Recent work: agent memory, LAN input sharing, annotation SDKs, Figma token PRs, AI build loops, issue mining, workflow benchmarks, research harnesses, and tiny CLIs.</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Agent+memory+%7C+LAN+tools+%7C+annotation+SDKs;Figma+token+PRs+%7C+AI+build+loops+%7C+issue+mining;Workflow+benchmarks+%7C+research+harnesses+%7C+tiny+CLIs)](https://git.io/typing-svg)
 
@@ -127,7 +127,7 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,swift,rust,js,git,bash,figma,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm,npm&perline=7)](https://skillicons.dev)
 
-**Languages:** TypeScript, Python, Swift, Rust, JavaScript, and shell. Recent repos are agents, local utilities, annotation SDKs, workflow labs, and small CLIs.
+**Languages:** TypeScript, Python, Swift, Rust, JavaScript, and shell. Recent repos are memory agents, LAN utilities, annotation SDKs, token PR demos, workflow benchmarks, research harnesses, and tiny CLIs.
 
 **Frontend:** React · Next.js · Tailwind for dashboards and portfolio work. Expo, React Native, and NativeWind for token demos. SwiftUI for annotation tools.
 
