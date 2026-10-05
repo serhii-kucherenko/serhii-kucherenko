@@ -129,7 +129,7 @@ $ █
 
 **Languages:** TypeScript, Python, Swift, Rust, JavaScript, and shell. Recent repos are memory agents, LAN utilities, annotation SDKs, Figma token automation, AI build loops, workflow benchmarks, research harnesses, and tiny CLIs.
 
-**Frontend:** React · Next.js · Tailwind for dashboards and portfolio work. Expo, React Native, and NativeWind for token demos. SwiftUI for annotation tools.
+**Frontend:** React, Tailwind, Expo, and React Native for token demos and browser dashboards. SwiftUI for annotation tools.
 
 **Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue mining, and CLIs. Rust for LAN tooling. Swift packages for macOS and iPadOS annotation. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
