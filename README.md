@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Founding full-stack engineer. Lately: agent memory, LAN input sharing, annotation SDKs, Figma token automation, AI build loops, issue mining, workflow benchmarks, research harnesses, and tiny CLIs.</em></p>
+<p><em>Founding full-stack engineer. Lately: persistent agent memory, LAN input sharing, annotation SDKs, Figma token PRs, AI build loops, product-idea mining, method benchmarks, research harnesses, and tiny CLIs.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Agent+memory+%7C+LAN+tools+%7C+annotation+SDKs;Figma+token+PRs+%7C+AI+build+loops+%7C+issue+mining;Workflow+benchmarks+%7C+research+harnesses+%7C+tiny+CLIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&width=500&lines=Agent+memory+%7C+LAN+tools+%7C+annotation+SDKs;Figma+token+PRs+%7C+AI+build+loops+%7C+idea+mining;Method+benchmarks+%7C+research+harnesses+%7C+tiny+CLIs)](https://git.io/typing-svg)
 
 [![Linkedin: Serhii Kucherenko](https://img.shields.io/badge/-Serhii%20Kucherenko-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-kucherenko/)
 ![GitHub followers](https://img.shields.io/github/followers/serhii-kucherenko?label=Follow&style=social)
@@ -127,11 +127,11 @@ $ █
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,swift,rust,js,git,bash,figma,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,vercel,pnpm,npm&perline=7)](https://skillicons.dev)
 
-**Languages:** TypeScript, Python, Swift, Rust, JavaScript, and shell. Recent repos are memory agents, LAN utilities, annotation SDKs, Figma token automation, AI build loops, workflow benchmarks, research harnesses, and tiny CLIs.
+**Languages:** TypeScript, Python, Swift, Rust, JavaScript, and shell. Recent repos are persistent memory agents, LAN utilities, annotation SDKs, Figma token PRs, AI build loops, product-idea mining, method benchmarks, research harnesses, and tiny CLIs.
 
 **Frontend:** React, Tailwind, Expo, and React Native for token demos and browser dashboards. SwiftUI for annotation tools.
 
-**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, issue mining, and CLIs. Rust for LAN tooling. Swift packages for macOS and iPadOS annotation. Typer, Pydantic, httpx, and Cheerio when a script is enough.
+**Backend:** Node.js tooling and Python scripts for build loops, research harnesses, product-idea mining, and CLIs. Rust for LAN tooling. Swift packages for macOS and iPadOS annotation. Typer, Pydantic, httpx, and Cheerio when a script is enough.
 
 **Databases:** Light lately. Qdrant for agent-memory demos; PostgreSQL when the app needs it.
 
@@ -140,10 +140,10 @@ $ █
 **AI/ML:**
 - Gemini · LangGraph · Qdrant
 - RAG · embeddings · context packing · persistent agent memory
-- AI agents · build loops · workflow benchmarks · review checks
+- AI agents · build loops · method benchmarks · review checks
 - Figma agent memory · prompt harnesses
 
-**Domain:** Persistent agent memory · LAN input sharing · app annotation SDKs · Figma token PRs · AI build loops · issue mining · workflow benchmarks · research harnesses · small CLIs.
+**Domain:** Persistent agent memory · LAN input sharing · app annotation SDKs · Figma token PRs · AI build loops · product-idea mining · method benchmarks · research harnesses · small CLIs.
 
 ---
 
